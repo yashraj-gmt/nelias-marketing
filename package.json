@@ -1,0 +1,45 @@
+{
+  "name": "nelias-marketing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "dev:lead": "node scripts/dev-lead-server.mjs",
+    "format": "prettier --write .",
+    "check:copy": "node scripts/check-copy.mjs",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "check:theme": "node scripts/check-theme.mjs",
+    "check:contrast": "node scripts/check-contrast.mjs",
+    "check:legal": "node scripts/check-legal.mjs",
+    "check:industries": "node scripts/check-industries.mjs",
+    "check:docs": "node scripts/check-docs.mjs",
+    "check:home": "node scripts/check-home-content.mjs",
+    "check:auth": "node scripts/check-auth.mjs",
+    "verify": "npm run lint && npm run build && npm run check:copy && npm run check:i18n && npm run check:theme && npm run check:contrast && npm run check:legal && npm run check:industries && npm run check:docs && npm run check:home && npm run check:auth"
+  },
+  "dependencies": {
+    "@fontsource-variable/outfit": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "clsx": "^2.1.1",
+    "i18next": "^26.4.4",
+    "lucide-react": "^1.55.0",
+    "motion": "^14.1.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-i18next": "^17.0.16",
+    "react-router-dom": "^7.18.4",
+    "tailwind-merge": "^3.7.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "prettier": "^3.9.10",
+    "prettier-plugin-tailwindcss": "^0.8.1",
+    "vite": "^8.3.0"
+  }
+}

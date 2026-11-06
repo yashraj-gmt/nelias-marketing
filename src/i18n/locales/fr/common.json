@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "name": "NELIAS",
+    "descriptor": "Plateforme de gestion d’entreprise",
+    "attribution": "NELIAS - Un produit de Debass Technologies",
+    "promise": "Une seule plateforme. Plusieurs secteurs. Votre environnement, configuré automatiquement.",
+    "footerTagline": "NELIAS - Une plateforme de gestion d’entreprise conçue par Debass Technologies. Une seule plateforme. Plusieurs secteurs. Votre environnement, configuré automatiquement.",
+    "copyright": "© 2026 NELIAS. Tous droits réservés."
+  },
+  "theme": {
+    "darkMode": "Mode sombre"
+  },
+  "header": {
+    "mainNavLabel": "Navigation principale",
+    "menu": "Menu",
+    "homeLink": "NELIAS - Accueil"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "industries": "Secteurs",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "signUp": "S’inscrire",
+    "signIn": "Se connecter",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales d’utilisation",
+    "faq": "FAQ",
+    "dpa": "Accord de traitement des données personnelles (DPA)",
+    "sla": "Accord de niveau de service (SLA)"
+  },
+  "footer": {
+    "navLabel": "Navigation du pied de page",
+    "legalNavLabel": "Informations légales",
+    "exploreHeading": "Explorer",
+    "contactHeading": "Contact",
+    "whatsapp": "WhatsApp"
+  },
+  "cta": {
+    "bookDemo": "Demander une démo",
+    "exploreNelias": "Explorer NELIAS",
+    "exploreHowItWorks": "Explorer le fonctionnement",
+    "seeHowNeliasWorks": "Voir comment fonctionne NELIAS",
+    "contactTeam": "Contacter notre équipe",
+    "requestConversation": "Demander un échange",
+    "contactNeliasTeam": "Contacter l’équipe NELIAS",
+    "talkToExpert": "Parler à un expert",
+    "signUp": "S’inscrire",
+    "simulatePrice": "Simuler mon prix",
+    "configure": "Configurer mon NELIAS"
+  },
+  "a11y": {
+    "skipToContent": "Aller au contenu principal",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "languageChanged": "Langue modifiée en {{language}}"
+  },
+  "lang": {
+    "en": "English",
+    "fr": "Français",
+    "enShort": "EN",
+    "frShort": "FR"
+  },
+  "ui": {
+    "required": "obligatoire",
+    "optional": "facultatif",
+    "close": "Fermer",
+    "info": "Plus d’informations",
+    "tabs": "Rubriques",
+    "illustrativePreview": "Aperçu illustratif",
+    "availability": {
+      "available": "Disponible",
+      "demoOnly": "Démo uniquement",
+      "comingLater": "Disponible plus tard"
+    },
+    "stepOf": "Étape {{current}} sur {{total}}",
+    "completed": "terminée",
+    "increase": "Augmenter",
+    "decrease": "Diminuer",
+    "loading": "Chargement",
+    "externalLink": "(s’ouvre dans un nouvel onglet)",
+    "select": {
+      "placeholder": "Sélectionner une option"
+    },
+    "details": "Détails"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "message": "La page que vous recherchez n’existe pas."
+  },
+  "devPlaceholder": "Page temporaire. Le contenu sera ajouté lors d’une prochaine étape."
+}

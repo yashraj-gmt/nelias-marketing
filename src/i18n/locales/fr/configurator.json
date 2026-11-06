@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "Configurer mon NELIAS | NELIAS BMP",
+    "description": "Quelques informations nous aident à recommander une configuration adaptée."
+  },
+  "page": { "title": "Configurer mon NELIAS", "progressLabel": "Progression de la configuration" },
+  "entry": {
+    "title": "Parlez-nous de votre entreprise.",
+    "helper": "Quelques informations nous aident à recommander une configuration adaptée.",
+    "start": "Démarrer la configuration",
+    "resumeTitle": "Vous avez une configuration enregistrée",
+    "resume": "Reprendre",
+    "startAgain": "Recommencer"
+  },
+  "steps": {
+    "profile": "Parlez-nous de votre entreprise",
+    "operations": "Comment travaillez-vous\u00A0?",
+    "recommendation": "Voici la configuration recommandée",
+    "customize": "Personnalisez votre configuration",
+    "summary": "Votre récapitulatif"
+  },
+  "nav": { "back": "Retour", "continue": "Continuer", "review": "Examiner la configuration" },
+  "errors": { "industry": "Veuillez sélectionner votre secteur pour continuer." },
+  "profile": {
+    "title": "Que fait votre entreprise\u00A0?",
+    "helper": "Sélectionnez votre secteur et vos principales activités.",
+    "tooltip": "Vos réponses nous aident à recommander une configuration adaptée à votre entreprise.",
+    "activity": "Activité principale"
+  },
+  "operations": {
+    "operateTitle": "Comment fonctionne votre entreprise\u00A0?",
+    "operateHelper": "Choisissez les fonctions dont vous avez besoin aujourd’hui.",
+    "quotaInfo": "Les formules incluent {{start}}, {{business}} ou {{professional}} modules standard.",
+    "sizeTitle": "Dimensionnons votre environnement.",
+    "sizeHelper": "Ajoutez des utilisateurs, des entités juridiques et vos besoins opérationnels."
+  },
+  "modules": {
+    "title": "Modules standard",
+    "helper": "Le Sector Engine recommande les modules standard les plus pertinents pour votre secteur. Vous pouvez remplacer n’importe lequel d’entre eux par un autre module standard compatible, sans frais supplémentaires, dans la limite des modules inclus dans votre formule.",
+    "meter": "Modules standard sélectionnés\u00A0: {{selected}} sur {{included}} inclus dans {{plan}}",
+    "extraAlert": "Modules standard supplémentaires\u00A0: {{extra}}. Chaque module standard supplémentaire est facturé par mois.",
+    "included": "Inclus",
+    "additional": "Supplémentaire",
+    "reset": "Revenir aux modules recommandés",
+    "enterpriseNote": "Les modules standard sont définis sur mesure dans les configurations ENTERPRISE.",
+    "noRecommendation": "Choisissez les modules standard dont vous avez besoin.",
+    "selectionTitle": "Vos modules standard",
+    "recommendedTitle": "Modules standard recommandés",
+    "matches": "Votre sélection correspond à la recommandation.",
+    "changed": "Vous avez modifié les modules recommandés. Vous pouvez remplacer n’importe lequel d’entre eux dans la limite des modules inclus dans votre formule."
+  },
+  "recommendation": {
+    "helper": "D’après les informations que vous avez fournies.",
+    "panelTitle": "Votre environnement NELIAS recommandé.",
+    "because": "Nous recommandons cette configuration parce que…",
+    "usersLine": "Utilisateurs\u00A0: vous en avez besoin de {{needed}}\u00A0; {{plan}} en inclut {{included}}.",
+    "entitiesLine": "Entités juridiques\u00A0: vous en avez besoin de {{needed}}\u00A0; {{plan}} en inclut {{included}}.",
+    "storageLine": "Stockage\u00A0: vous avez besoin de {{needed}} Go au maximum\u00A0; {{plan}} inclut {{included}} Go.",
+    "industryLine": "Secteur\u00A0: {{industry}}.",
+    "modulesLine": "Modules standard\u00A0: vous en avez sélectionné {{selected}}\u00A0; {{plan}} en inclut {{included}}.",
+    "includedInPlan": "Inclus dans {{plan}}",
+    "optionsTitle": "Options utiles",
+    "optionsNone": "Aucune option supplémentaire n’est suggérée pour les fonctions sélectionnées.",
+    "specialist": "Votre configuration nécessite une étude par un spécialiste. Notre équipe vous contactera."
+  },
+  "customize": {
+    "planTitle": "Formule",
+    "capacityTitle": "Capacité",
+    "storageTitle": "Stockage",
+    "storageUpTo": "Jusqu’à {{value}} Go",
+    "storageMore": "Plus de {{value}} Go",
+    "suggested": "Suggérée",
+    "planBelow": "{{plan}} est inférieure à la formule recommandée pour les informations que vous avez fournies.",
+    "extraUsers": "{{plan}} inclut {{included}} utilisateurs. La différence est ajoutée sous forme d’utilisateurs supplémentaires.",
+    "extraEntities": "{{plan}} inclut {{included}} entités juridiques. La différence est ajoutée sous forme d’entités juridiques supplémentaires.",
+    "storageShort": "{{plan}} inclut {{included}} Go. Choisissez une formule supérieure ou parlez à un conseiller.",
+    "estimateTitle": "Découvrez votre abonnement estimé.",
+    "estimateHelper": "Examinez la formule, la capacité, les options et les éventuels frais liés à l’usage.",
+    "total": "Total estimé",
+    "totalFrom": "À partir de {{amount}}",
+    "usageNote": "Des frais liés à l’usage peuvent s’appliquer.",
+    "quoteNote": "Certains éléments sont facturés sur devis.",
+    "annualOptionsNote": "Les options sont facturées par mois.",
+    "extraUsersCount": "Utilisateurs supplémentaires ({{count}})",
+    "extraEntitiesCount": "Entités juridiques supplémentaires ({{count}})",
+    "extraModulesCount": "Modules standard supplémentaires ({{count}})",
+    "includedLabel": "Inclus"
+  },
+  "panel": {
+    "title": "Votre configuration",
+    "empty": "Pas encore renseigné",
+    "modules": "Modules standard",
+    "capacity": "Capacité",
+    "plan": "Formule",
+    "storage": "Stockage",
+    "options": "Options"
+  },
+  "summary": {
+    "edit": "Modifier",
+    "none": "Aucun",
+    "modulesLine": "Sélectionnés\u00A0: {{selected}}\u00A0; inclus\u00A0: {{included}}\u00A0; supplémentaires\u00A0: {{extra}}",
+    "indicative": "Les simulations et les recommandations du configurateur sont indicatives.",
+    "save": "Enregistrer la configuration",
+    "saved": "Configuration enregistrée sur cet appareil.",
+    "share": "Partager",
+    "shareCopied": "Lien copié dans le presse-papiers.",
+    "shareFailed": "Nous n’avons pas pu copier le lien. Vous pouvez le copier depuis le champ ci-dessous.",
+    "shareLabel": "Lien à partager",
+    "sharedNote": "Vous consultez une configuration partagée. Vous pouvez modifier chaque étape."
+  }
+}

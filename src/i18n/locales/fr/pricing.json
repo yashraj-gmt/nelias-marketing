@@ -1,0 +1,216 @@
+{
+  "hero": {
+    "title": "Quatre formules, la bonne capacité",
+    "lead": "Aucun prix n’est calculé par bureau, boutique ou entrepôt\u00A0: la localisation de vos équipes n’est pas un critère de tarification."
+  },
+  "overview": {
+    "signUpFor": "S’inscrire à {{plan}}",
+    "simulatePriceFor": "Simuler mon prix pour {{plan}}",
+    "configureFor": "Configurer {{plan}}"
+  },
+  "page": {
+    "plansTitle": "Formules",
+    "billingLabel": "Période de facturation",
+    "monthly": "Mensuel",
+    "annual": "Annuel",
+    "annualNote": "Les abonnements annuels START, BUSINESS et PROFESSIONAL correspondent à 12 mois de service pour le prix de 10 mois.",
+    "announce": "Affichage des prix {{period}}",
+    "periodMonthly": "mensuels",
+    "periodAnnual": "annuels",
+    "perMonth": "/ mois",
+    "perYear": "/ an",
+    "exclTax": "hors taxes",
+    "customQuote": "Sur devis",
+    "priceOnRequest": "Tarifs sur demande",
+    "recommended": "Recommandée",
+    "modulesLabel": "Modules standard",
+    "modulesNote": "Chaque formule inclut un nombre de modules standard. Le Sector Engine recommande les plus pertinents pour votre secteur, et vous pouvez remplacer n’importe lequel d’entre eux par un autre module standard compatible, sans frais supplémentaires, dans la limite des modules inclus dans votre formule.",
+    "usersLabel": "Utilisateurs",
+    "entitiesLabel": "Entités juridiques",
+    "storageLabel": "Stockage",
+    "storageValue": "{{value}} Go",
+    "includedLabel": "Inclus",
+    "compareTitle": "Comparer les formules",
+    "optionalTitle": "Frais optionnels",
+    "optionalLead": "Ajoutez des fonctionnalités sectorielles, des utilisateurs et des intégrations selon vos besoins.",
+    "devPricingTitle": "Détails tarifaires extensibles pour développeurs",
+    "itemCol": "Élément",
+    "ruleCol": "Tarif de référence V2 / règle",
+    "expandDetails": "Afficher les détails développeur",
+    "collapseDetails": "Masquer les détails développeur"
+  },
+  "plans": {
+    "start": {
+      "name": "START",
+      "tagline": "Une base pratique pour les petites équipes.",
+      "included": ["Sector Engine", "Flux de travail et support standard"],
+      "cta": "Configurer START"
+    },
+    "business": {
+      "name": "BUSINESS",
+      "tagline": "Plus de marge pour les activités en croissance.",
+      "included": ["Sector Engine", "Flux de travail avancés", "Support Standard+"],
+      "cta": "Configurer BUSINESS"
+    },
+    "professional": {
+      "name": "PROFESSIONAL",
+      "tagline": "Une capacité plus large et des fonctionnalités avancées.",
+      "included": ["Sector Engine", "API avancée", "Portail client", "BI avancée"],
+      "cta": "Configurer PROFESSIONAL"
+    },
+    "enterprise": {
+      "name": "ENTERPRISE",
+      "tagline": "Conçue pour les organisations complexes.",
+      "included": ["Capacité sur mesure", "Hébergement", "Engagements de service", "Intégrations"],
+      "cta": "Parler à un expert",
+      "modules": "Sur mesure",
+      "users": "Sur mesure",
+      "entities": "Multi-entités",
+      "storage": "Dimensionné selon vos besoins"
+    }
+  },
+  "compare": {
+    "title": "Comparer les offres",
+    "caption": "Comparaison des formules",
+    "plan": "Formule",
+    "monthlyCol": "Mensuel (hors taxes)",
+    "annualCol": "Annuel (hors taxes)"
+  },
+  "grow": {
+    "title": "Faites évoluer votre abonnement",
+    "head": {
+      "extension": "Extension",
+      "monthly": "Prix mensuel hors taxes"
+    },
+    "items": {
+      "module": {
+        "label": "Module standard supplémentaire",
+        "value": "{{amount}} par module"
+      },
+      "user": {
+        "label": "Utilisateur supplémentaire",
+        "value": "{{amount}}"
+      },
+      "users5": {
+        "label": "Pack de 5 utilisateurs",
+        "value": "{{amount}}"
+      },
+      "users10": {
+        "label": "Pack de 10 utilisateurs",
+        "value": "{{amount}}"
+      },
+      "entity": {
+        "label": "Entité juridique supplémentaire",
+        "value": "{{amount}}"
+      },
+      "pack": {
+        "label": "Industry+ Pack (bientôt disponible)",
+        "value": "{{amount}} par pack"
+      },
+      "storage": {
+        "label": "Stockage supplémentaire",
+        "value": "Calculé selon la grille de notre partenaire d’hébergement"
+      },
+      "addons": {
+        "label": "Options complémentaires et connecteurs",
+        "value": "Selon le catalogue"
+      }
+    },
+    "example": "Exemple\u00A0: START avec 5 modules coûte {{base}} + {{extra}} = {{total}} hors taxes par mois. Pour n utilisateurs supplémentaires, le calcul retient la combinaison la moins chère d’utilisateurs à l’unité et de packs. Si BUSINESS avec extensions coûte plus cher que PROFESSIONAL, nous vous le signalons."
+  },
+  "sectors": {
+    "title": "Configurations sectorielles incluses",
+    "body": "La configuration sectorielle de base est incluse dans toutes les offres, sans supplément.",
+    "badge": "Sector Engine",
+    "supportedSectors": "Préconfiguré pour 12 secteurs d’activité",
+    "highlights": {
+      "tailored": {
+        "title": "Adapté à votre activité",
+        "text": "Vocabulaire, formulaires et processus par défaut alignés sur votre métier dès le premier jour."
+      },
+      "zeroFee": {
+        "title": "Sans coût supplémentaire",
+        "text": "Chaque formule inclut sa configuration sectorielle complète, sans aucune licence additionnelle."
+      },
+      "flexible": {
+        "title": "Modules interchangeables",
+        "text": "Remplacez tout module recommandé par un autre module standard dans la limite de votre formule."
+      }
+    }
+  },
+  "packs": {
+    "title": "Industry+ Packs - bientôt disponibles",
+    "intro": "Cinq packs métier approfondis sont prévus. Ils ne sont pas encore disponibles.",
+    "price": "Chacun sera proposé à {{amount}} hors taxes par mois, en complément de l’abonnement.",
+    "head": {
+      "pack": "Pack",
+      "sector": "Secteur",
+      "functions": "Fonctions envisagées"
+    },
+    "items": {
+      "immo": {
+        "name": "NELIAS Immo+",
+        "sector": "Immobilier",
+        "functions": "Gestion locative avancée\u00A0: baux, loyers, échéances, quittances, suivi du patrimoine"
+      },
+      "courtage": {
+        "name": "NELIAS Courtage+",
+        "sector": "Courtage en assurance",
+        "functions": "Polices et contrats, commissions, renouvellements, échanges avec les assureurs"
+      },
+      "pharma": {
+        "name": "NELIAS Pharma+",
+        "sector": "Pharmacie",
+        "functions": "Traçabilité des lots et des dates de péremption, sous réserve de validation réglementaire"
+      },
+      "chantier": {
+        "name": "NELIAS Chantier+",
+        "sector": "BTP",
+        "functions": "Suivi de chantier, situations de travaux, retenues de garantie, sous-traitance"
+      },
+      "services": {
+        "name": "NELIAS Services+",
+        "sector": "Informatique et services",
+        "functions": "Contrats de service, SLA, interventions, automatisations"
+      }
+    },
+    "notify": "Être prévenu dès leur disponibilité"
+  },
+  "optional": {
+    "groups": {
+      "modules": "Modules standard",
+      "capacity": "Utilisateurs et entités juridiques",
+      "addOns": "Modules complémentaires",
+      "connectors": "Connecteurs"
+    },
+    "items": {
+      "additional-module": "Module standard supplémentaire",
+      "user-1": "Utilisateur supplémentaire",
+      "users-5": "+5 utilisateurs",
+      "users-10": "+10 utilisateurs",
+      "legal-entity": "Entité juridique supplémentaire",
+      "advanced-workflow": "Flux de travail avancés",
+      "advanced-bi": "BI et analyses avancées",
+      "marketing-automation": "Automatisation marketing",
+      "customer-portal-plus": "Portail client+",
+      "field-service-plus": "Service terrain+",
+      "assets-maintenance-plus": "Actifs et maintenance+",
+      "data-api-plus": "Data & API Plus",
+      "nelias-ai": "NELIAS AI",
+      "audit-compliance": "Audit et conformité avancés",
+      "connector-standard": "Connecteur standard",
+      "connector-business": "Connecteur Business",
+      "connector-premium": "Connecteur Premium",
+      "connector-custom": "Connecteur sur mesure"
+    },
+    "price": {
+      "fixed": "{{amount}} / mois",
+      "from": "À partir de {{amount}} / mois",
+      "fromPlusUsage": "À partir de {{amount}} / mois + usage",
+      "range": "{{min}}–{{max}} / mois",
+      "includedOr": "Inclus ou {{amount}} / mois",
+      "quote": "Sur devis"
+    }
+  },
+  "disclaimer": "Prix indiqués en FCFA, hors taxes applicables. La disponibilité, les fonctionnalités incluses, les services optionnels et les frais de tiers sont sous réserve de confirmation. Certaines configurations nécessitent un devis personnalisé."
+}

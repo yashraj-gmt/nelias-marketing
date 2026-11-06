@@ -1,0 +1,8 @@
+{
+  "files": {
+    "src/components/common/Logo.jsx": {
+      "tokens": ["bg-white"],
+      "reason": "logo PNG is opaque white"
+    }
+  }
+}

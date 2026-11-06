@@ -1,0 +1,103 @@
+{
+  "seo": {
+    "title": "Questions fréquentes | NELIAS BMP"
+  },
+  "page": {
+    "title": "Questions fréquentes",
+    "jumpLabel": "Questions par thème",
+    "nextStep": "Prochaine étape"
+  },
+  "groups": {
+    "pricing": "Tarifs et offres",
+    "modules": "Modules et secteurs",
+    "hosting": "Hébergement et données",
+    "migration": "Migration et systèmes existants",
+    "general": "Questions générales"
+  },
+  "closing": {
+    "title": "Dites-nous ce que fait votre entreprise.",
+    "body": "Un conseiller vous répondra et validera la configuration avec vous avant toute commande."
+  },
+  "items": {
+    "whatIsNelias": {
+      "q": "Qu’est-ce que NELIAS\u00A0?",
+      "a": "NELIAS est une plateforme de gestion d’entreprise conçue pour réunir les fonctionnalités de gestion et les configurer autour du profil d’une organisation."
+    },
+    "isErp": {
+      "q": "NELIAS est-elle un ERP\u00A0?",
+      "a": "NELIAS intègre des fonctionnalités de type ERP, mais son positionnement est plus large\u00A0: une approche de plateforme construite autour des profils d’entreprise, d’une configuration adaptée au secteur et de flux de travail connectés."
+    },
+    "sectorEngine": {
+      "q": "Qu’est-ce que le Sector Engine\u00A0?",
+      "a": "Le Sector Engine est le composant à base de règles conçu pour recommander une configuration pertinente à partir du profil et des besoins de votre entreprise."
+    },
+    "addLater": {
+      "q": "Puis-je ajouter des fonctionnalités plus tard\u00A0?",
+      "a": "La plateforme permet de faire évoluer les formules, les capacités et les fonctionnalités optionnelles, sous réserve de leur disponibilité au catalogue."
+    },
+    "multipleOffices": {
+      "q": "Vais-je payer plus pour plusieurs bureaux\u00A0?",
+      "a": "L’emplacement physique n’est pas, à lui seul, un critère de prix. Des fonctionnalités opérationnelles supplémentaires, des entités juridiques ou des services peuvent toutefois influencer le prix."
+    },
+    "hosting": {
+      "q": "Où mes données seront-elles hébergées\u00A0?",
+      "a": "Les options d’hébergement dépendent de l’abonnement et des exigences techniques. Des options d’hébergement africaines, dont la Côte d’Ivoire, sont à l’étude pour NELIAS, sous réserve de confirmation contractuelle."
+    },
+    "connect": {
+      "q": "Puis-je connecter NELIAS à d’autres outils\u00A0?",
+      "a": "Des connecteurs et des API approuvés sont prévus, avec une disponibilité et des frais qui varient selon l’intégration."
+    },
+    "getStarted": {
+      "q": "Comment démarrer avec NELIAS\u00A0?",
+      "a": "Sélectionnez «\u00A0Configurer mon NELIAS\u00A0» pour décrire votre entreprise, examiner une configuration recommandée et poursuivre avec les options actuellement disponibles."
+    },
+    "tryNelias": {
+      "q": "Puis-je essayer NELIAS\u00A0?",
+      "a": "L’accès à la démo et les offres d’essai dépendent des services actuellement disponibles. Contactez l’équipe pour manifester votre intérêt."
+    },
+    "moreThanOneCompany": {
+      "q": "Puis-je utiliser NELIAS pour plus d’une entreprise\u00A0?",
+      "a": "Les fonctionnalités multi-entités dépendent de la formule et des éventuels abonnements d’entité juridique supplémentaires."
+    },
+    "offices": {
+      "q": "Le prix dépend-il du nombre de bureaux ou de magasins\u00A0?",
+      "a": "Non. Vos utilisateurs peuvent se connecter depuis le siège, une agence, leur domicile ou en déplacement, sans frais par site. NELIAS facture la capacité, la valeur fonctionnelle et la consommation."
+    },
+    "includes": {
+      "q": "Que comprend l’abonnement\u00A0?",
+      "a": "La plateforme, le Sector Engine, un nombre de modules standard ({{start}}, {{business}} ou {{professional}} selon l’offre), les utilisateurs, le stockage et le niveau de service de l’offre."
+    },
+    "moreModules": {
+      "q": "Puis-je utiliser plus de modules que mon offre n’en inclut\u00A0?",
+      "a": "Oui. Chaque module standard supplémentaire coûte {{amount}} hors taxes par mois."
+    },
+    "modify": {
+      "q": "Peut-on modifier les modules recommandés\u00A0?",
+      "a": "Oui. Le Sector Engine recommande une sélection que vous pouvez compléter, réduire ou remplacer parmi les modules compatibles."
+    },
+    "packsDate": {
+      "q": "Quand les Industry+ Packs seront-ils disponibles\u00A0?",
+      "a": "Le calendrier n’est pas encore fixé. Les cinq packs sont prévus et ne sont pas encore commercialisés. Vous pouvez demander à être prévenu dès leur disponibilité."
+    },
+    "twoMonths": {
+      "q": "Que signifie «\u00A02 mois offerts\u00A0» sur l’abonnement annuel\u00A0?",
+      "a": "En payant l’abonnement de base pour l’année, vous réglez 10 mois pour 12 mois de service."
+    },
+    "hosted": {
+      "q": "Mes données sont-elles hébergées en Côte d’Ivoire\u00A0?",
+      "a": "L’hébergement en Côte d’Ivoire est possible avec l’offre Sovereign, sur devis. Le mode Shared est inclus dans les offres START, BUSINESS et PROFESSIONAL."
+    },
+    "migrate": {
+      "q": "Pouvez-vous migrer nos données existantes\u00A0?",
+      "a": "Oui, dans le cadre d’une prestation de migration chiffrée selon votre projet."
+    },
+    "legacy": {
+      "q": "Peut-on remplacer un système ancien ou développé sur mesure\u00A0?",
+      "a": "C’est possible dans le cadre d’une offre ENTERPRISE sur devis, avec une migration progressive et, si nécessaire, un développement spécifique chiffré séparément."
+    },
+    "currency": {
+      "q": "Dans quelle devise les prix sont-ils affichés\u00A0?",
+      "a": "En FCFA. L’affichage dans la devise de votre pays est prévu dans une étape ultérieure."
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "The business capabilities you need, in an environment designed around you.",
+    "lead": "The following are platform capability areas. Exact modules, included functions and release availability depend on the selected plan and approved catalogue."
+  },
+  "page": {
+    "listLabel": "Capability areas",
+    "filterLabel": "Filter by industry",
+    "filterAll": "All industries",
+    "showing": "Showing {{shown}} of {{total}} capability areas",
+    "viewIndustry": "View {{name}}",
+    "empty": "No capability areas to display.",
+    "nextStep": "Next step"
+  },
+  "disclaimer": "NELIAS AI, advanced analytics, connectors and sector-specific functions may be optional, usage-based, or scheduled for a later release.",
+  "areas": {
+    "finance-accounting": {
+      "name": "Finance & Accounting",
+      "description": "Track financial transactions and support clearer financial operations."
+    },
+    "crm-sales": {
+      "name": "CRM & Sales",
+      "description": "Organize contacts, opportunities, pipelines and customer interactions."
+    },
+    "purchasing-inventory": {
+      "name": "Purchasing & Inventory",
+      "description": "Manage suppliers, purchasing cycles, inventory and warehouse operations."
+    },
+    "point-of-sale": {
+      "name": "Point of Sale",
+      "description": "Support retail transaction workflows where enabled."
+    },
+    "projects-timesheets": {
+      "name": "Projects & Timesheets",
+      "description": "Plan, execute and monitor project-based work."
+    },
+    "human-resources": {
+      "name": "Human Resources",
+      "description": "Manage selected people and administrative workflows."
+    },
+    "manufacturing-quality": {
+      "name": "Manufacturing & Quality",
+      "description": "Support production and quality workflows for eligible sector configurations."
+    },
+    "assets-maintenance": {
+      "name": "Assets & Maintenance",
+      "description": "Track assets, servicing and maintenance activities."
+    },
+    "customer-support-portal": {
+      "name": "Customer Support & Portal",
+      "description": "Support service requests and customer-facing interactions where available."
+    },
+    "reporting-analytics": {
+      "name": "Reporting & Analytics",
+      "description": "Turn operational information into usable management visibility."
+    },
+    "workflows-automation": {
+      "name": "Workflows & Automation",
+      "description": "Connect steps, approvals and notifications across business processes."
+    },
+    "connectors-apis": {
+      "name": "Connectors & APIs",
+      "description": "Integrate with approved third-party systems and services."
+    }
+  },
+  "extras": {
+    "exploreIndustries": "Explore Industries"
+  }
+}

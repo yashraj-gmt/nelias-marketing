@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "À propos de NELIAS",
+    "lead": "Votre entreprise est unique. Votre plateforme de gestion devrait l’être aussi."
+  },
+  "story": {
+    "title": "Notre histoire",
+    "p1": "Derrière chaque entreprise se trouvent une vision, des ambitions et des personnes qui œuvrent chaque jour pour leur donner vie.",
+    "p2": "Mais à mesure que les organisations grandissent, leurs défis évoluent. Les activités se diversifient, les équipes s’étoffent et les outils de gestion se multiplient. L’information se disperse, les processus se complexifient, et la vue d’ensemble claire de l’entreprise peut peu à peu se perdre.",
+    "pull": "Les entreprises grandissent, mais leurs outils ne grandissent pas toujours avec elles.",
+    "p3": "Chez Debass Technologies, notre expérience de l’accompagnement des organisations dans leur transformation digitale nous a conduits à nous poser une question fondamentale\u00A0:",
+    "question": "Pourquoi les entreprises devraient-elles s’adapter aux limites de leurs logiciels, alors que la technologie devrait s’adapter à leurs réalités\u00A0?",
+    "p4": "De cette conviction est née NELIAS\u00A0: une nouvelle vision de la gestion d’entreprise, où la technologie s’adapte aux différents secteurs, soutient les ambitions et évolue au rythme de chaque organisation."
+  },
+  "answer": {
+    "title": "Notre réponse\u00A0: une plateforme qui s’adapte à vous",
+    "p1": "NELIAS est une plateforme de gestion d’entreprise (BMP)\u00A0: une plateforme de gestion intégrée, modulaire et évolutive, conçue pour répondre aux besoins variés des entreprises et de leurs activités.",
+    "p2": "Au cœur de cette approche se trouve le Sector Engine, un moteur de configuration sectorielle conçu pour organiser les fonctionnalités de la plateforme selon le secteur, les besoins et le profil de chaque organisation.",
+    "p3": "Parce qu’un commerçant, un prestataire de santé, un cabinet de services professionnels et un groupe multi-sociétés ne fonctionnent pas de la même manière, NELIAS privilégie la flexibilité plutôt qu’un modèle unique pour tous.",
+    "philosophy": "Notre philosophie est simple\u00A0: partir de ce dont vous avez besoin aujourd’hui et laisser votre environnement évoluer au rythme de vos ambitions de demain.",
+    "triad": [
+      "Une seule base technologique.",
+      "Plusieurs secteurs.",
+      "Des environnements adaptés à chaque organisation."
+    ]
+  },
+  "mission": {
+    "title": "Notre mission",
+    "statement": "Simplifier la gestion d’entreprise afin que les organisations puissent se concentrer sur l’essentiel\u00A0: construire, innover et se développer.",
+    "p1": "Nous voulons rendre les technologies de gestion plus accessibles, plus intelligentes et mieux alignées sur les besoins réels des organisations.",
+    "p2": "En réunissant les activités, les équipes et l’information dans un environnement cohérent, NELIAS cherche à renforcer la collaboration, à fluidifier les processus et à offrir aux décideurs une vision plus claire de leurs opérations.",
+    "p3": "Parce que nous croyons que la technologie doit être un moteur de performance et de liberté, jamais un frein à la croissance."
+  },
+  "vision": {
+    "title": "Notre vision",
+    "statement": "Construire, depuis l’Afrique, une plateforme de gestion d’entreprise de premier plan, capable de soutenir les ambitions des entreprises, chez elles comme dans le monde entier.",
+    "p1": "Née en Côte d’Ivoire et portée par Debass Technologies, NELIAS reflète une vision de la transformation digitale qui associe innovation, standards internationaux et compréhension approfondie des réalités des entreprises africaines.",
+    "p2": "Nous croyons au potentiel des entrepreneurs africains, à la force de leurs initiatives et à leur capacité à bâtir des organisations compétitives et durables, connectées au monde.",
+    "p3": "Notre ambition est de contribuer à cette dynamique grâce à une technologie qui évolue avec les entreprises, respecte leurs particularités et soutient leur croissance au-delà des frontières.",
+    "pull": "Nous commençons en Côte d’Ivoire. Mais notre vision va bien au-delà."
+  },
+  "closing": {
+    "ariaLabel": "À propos de NELIAS\u00A0: prochaine étape",
+    "signature": "NELIAS - Une seule plateforme. Plusieurs secteurs. Votre environnement, automatiquement."
+  }
+}

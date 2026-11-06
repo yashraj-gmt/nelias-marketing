@@ -1,0 +1,102 @@
+{
+  "landing": {
+    "title": "Pensé pour différentes manières de faire des affaires.",
+    "lead": "NELIAS repose sur une base de plateforme commune et sur des configurations adaptées à chaque secteur - et non sur un logiciel distinct pour chaque secteur.",
+    "viewIndustry": "Voir {{name}}"
+  },
+  "closing": {
+    "title": "Configuration adaptée à votre secteur",
+    "subtitle": "Des fonctionnalités modulaires configurées selon vos activités et vos processus."
+  },
+  "detail": {
+    "challengesTitle": "Défis courants et résultats",
+    "challengeLabel": "Défi courant",
+    "outcomeLabel": "Résultat",
+    "walkthroughTitle": "Parcours pratique"
+  },
+  "page": {
+    "selectorTitle": "Choisissez votre secteur",
+    "selectHint": "Sélectionnez un secteur pour afficher les détails.",
+    "suggestedLabel": "Fonctionnalités suggérées",
+    "close": "Fermer"
+  },
+  "items": {
+    "retail-distribution": {
+      "name": "Commerce de détail et distribution",
+      "summary": "Coordonnez les ventes, les approvisionnements, les stocks et les opérations multisites.",
+      "headline": "Gardez la maîtrise de vos ventes, de vos achats et de vos stocks.",
+      "walkthrough": ["Commande fournisseur", "Stock", "Vente client"]
+    },
+    "professional-services": {
+      "name": "Services professionnels et expertise comptable",
+      "summary": "Réunissez la relation client, les projets, les feuilles de temps, la facturation et le reporting au sein d’un flux connecté.",
+      "headline": "Gardez vos clients, projets et factures parfaitement reliés.",
+      "walkthrough": ["Relation client", "Projets", "Feuilles de temps", "Facturation", "Reporting"]
+    },
+    "manufacturing": {
+      "name": "Industrie et fabrication",
+      "summary": "Reliez les approvisionnements, les stocks, la planification de production et les démarches qualité.",
+      "headline": "Connectez les achats, la production et le suivi opérationnel.",
+      "walkthrough": [
+        "Approvisionnement",
+        "Stocks",
+        "Planification de la production",
+        "Processus qualité"
+      ]
+    },
+    "healthcare": {
+      "name": "Santé",
+      "summary": "Gérez les démarches administratives, les approvisionnements, les stocks et les flux de services, sous réserve des exigences propres au secteur.",
+      "headline": "Organisez vos activités et vos ressources dans un environnement structuré.",
+      "walkthrough": ["Opérations administratives", "Approvisionnement", "Stock", "Flux de service"]
+    },
+    "hospitality": {
+      "name": "Hôtellerie et restauration",
+      "summary": "Rapprochez les achats, la finance, la gestion des équipes et le pilotage quotidien.",
+      "headline": "Coordonnez vos équipes, vos achats et vos opérations au quotidien.",
+      "walkthrough": ["Achats", "Finance", "Personnel", "Gestion opérationnelle"]
+    },
+    "education-training": {
+      "name": "Éducation et formation",
+      "summary": "Accompagnez l’administration, la facturation, les projets et la gestion de vos établissements.",
+      "walkthrough": ["Administration", "Facturation", "Projets", "Opérations institutionnelles"]
+    },
+    "insurance-financial-services": {
+      "name": "Assurance et services financiers",
+      "summary": "Découvrez des flux structurés pour la relation client, les services et les opérations, sous réserve des validations réglementaires et d’intégration.",
+      "headline": "Améliorez la visibilité sur vos clients, vos dossiers et vos opérations.",
+      "walkthrough": ["Flux clients", "Flux de service", "Flux opérationnels"]
+    },
+    "energy-field-services": {
+      "name": "Énergie et interventions sur site",
+      "summary": "Coordonnez vos actifs, la maintenance, les projets et les interventions sur le terrain.",
+      "walkthrough": ["Actifs", "Maintenance", "Projets", "Activités de terrain"]
+    },
+    "real-estate": {
+      "name": "Immobilier",
+      "summary": "Organisez la relation client, les ventes, les projets, la finance et le reporting pour les activités immobilières.",
+      "walkthrough": ["Relation client", "Ventes", "Projets", "Finance", "Reporting"]
+    },
+    "pharmacies": {
+      "name": "Pharmacies",
+      "summary": "Soutenez les achats, les stocks, les flux de point de vente et les flux financiers des pharmacies, sous réserve des exigences propres au secteur.",
+      "walkthrough": ["Achats", "Stock", "Point de vente", "Finance"]
+    },
+    "construction-btp": {
+      "name": "Construction / BTP",
+      "summary": "Reliez les achats, les stocks, les projets, les feuilles de temps et le suivi financier des activités de construction.",
+      "walkthrough": ["Achats", "Stock", "Projets", "Feuilles de temps", "Suivi financier"]
+    },
+    "it-technology-services": {
+      "name": "Informatique et services technologiques",
+      "summary": "Réunissez la relation client, les projets, les feuilles de temps, le support client et le reporting dans un flux de travail connecté.",
+      "walkthrough": [
+        "Relation client",
+        "Projets",
+        "Feuilles de temps",
+        "Support client",
+        "Reporting"
+      ]
+    }
+  }
+}

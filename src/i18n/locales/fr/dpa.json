@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "title": "Accord de traitement des données personnelles (DPA)",
+    "version": "NELIAS BMP | Version 1.1 - Publication portail | 13 octobre 2026",
+    "publisher": "Éditeur : Debass Technologies SARL • https://nelias.app"
+  },
+  "seo": {
+    "title": "Accord de traitement des données personnelles (DPA) | NELIAS BMP",
+    "description": "Accord de traitement des données personnelles (DPA) de NELIAS BMP, version 1.1, publication portail, 13 octobre 2026."
+  },
+  "page": {
+    "contents": "Sommaire",
+    "languageLink": "Lire ce document en anglais"
+  },
+  "articles": [
+    {
+      "title": "1. Parties et objet",
+      "blocks": [
+        {
+          "p": "Le présent DPA lie Debass Technologies SARL (« Debass »), fournisseur de NELIAS BMP, et l'entreprise cliente identifiée dans la commande électronique (le « client »). Il régit les données personnelles que Debass traite pour fournir le service, conformément au droit applicable, notamment à la loi ivoirienne n° 2013-450 relative à la protection des données à caractère personnel."
+        }
+      ]
+    },
+    {
+      "title": "2. Rôles",
+      "blocks": [
+        {
+          "p": "Le client décide des finalités et des catégories de données qu'il importe dans NELIAS : il est en principe responsable du traitement. Debass agit comme sous-traitant pour ces données."
+        },
+        {
+          "p": "Debass reste responsable de traitement distinct pour les données de son propre portail, de sa facturation et de sa prospection (voir la Politique de confidentialité)."
+        }
+      ]
+    },
+    {
+      "title": "3. Instructions",
+      "blocks": [
+        {
+          "p": "Debass traite les données métier sur les instructions documentées du client, qui résultent du Contrat, de la configuration du service et des demandes d'assistance autorisées. Elle signale au client toute instruction qu'elle estime manifestement illégale, lorsque la loi le permet."
+        },
+        { "p": "Une prestation qui sort du Contrat peut être facturée après accord du client." }
+      ]
+    },
+    {
+      "title": "4. Confidentialité et sécurité",
+      "blocks": [
+        {
+          "p": "Debass limite l'accès aux données aux personnes autorisées, tenues à la confidentialité. Elle met en œuvre des mesures de sécurité proportionnées aux risques, décrites en annexe 3."
+        },
+        { "p": "Le client protège ses comptes et gère ses utilisateurs." }
+      ]
+    },
+    {
+      "title": "5. Sous-traitants ultérieurs",
+      "blocks": [
+        {
+          "p": "Le client autorise Hodi (hébergement, sauvegarde et plan de reprise) et CRMPUNCH (développement, intégration, maintenance et support), dans la mesure nécessaire au service. Debass leur impose des obligations de protection équivalentes à celles du présent DPA."
+        },
+        {
+          "p": "Les prestataires de paiement, de notification ou d'autres services ne sont ajoutés que lorsqu'ils sont effectivement activés."
+        },
+        {
+          "p": "Debass informe le client de tout changement substantiel de sous-traitant avec un préavis de 30 jours, sauf urgence justifiée. Le client peut présenter une objection motivée ; les parties recherchent alors une solution et, à défaut, le client peut mettre fin au service concerné dans les conditions des CGV."
+        }
+      ]
+    },
+    {
+      "title": "6. Localisation et accès depuis l'étranger",
+      "blocks": [
+        {
+          "p": "L'hébergement principal se situe à Grand-Bassam (Côte d'Ivoire) et le plan de reprise à Johannesburg (Afrique du Sud). Les copies de reprise prévues restent en Afrique."
+        },
+        {
+          "p": "Les accès de maintenance depuis l'étranger ne sont autorisés que lorsqu'ils sont nécessaires, encadrés, sécurisés et conformes aux formalités légales applicables."
+        }
+      ]
+    },
+    {
+      "title": "7. Assistance et droits des personnes",
+      "blocks": [
+        {
+          "p": "Debass aide raisonnablement le client à répondre aux demandes d'accès, de rectification, d'effacement et aux autres droits reconnus par la loi. Lorsque le client est responsable du traitement, Debass oriente vers lui les personnes concernées qui la saisissent."
+        }
+      ]
+    },
+    {
+      "title": "8. Violation de données",
+      "blocks": [
+        {
+          "p": "Debass informe le client sans retard injustifié après avoir confirmé une violation de données personnelles qui le concerne, lui communique les informations disponibles et coopère à l'enquête. Le client reste responsable des notifications qui lui incombent légalement."
+        }
+      ]
+    },
+    {
+      "title": "9. Démonstration de conformité et audits",
+      "blocks": [
+        {
+          "p": "Debass fournit des éléments documentaires raisonnables pour démontrer sa conformité. Les audits techniques ou visites sur site requièrent un accord préalable sur leur périmètre, leur confidentialité, leurs coûts et la protection des autres clients."
+        }
+      ]
+    },
+    {
+      "title": "10. Fin du contrat et restitution",
+      "blocks": [
+        {
+          "p": "Le client peut demander l'export standard de ses données dans les 30 jours qui suivent la fin du Contrat. Passé ce délai, Debass supprime ou anonymise les données actives, sauf obligation légale de conservation. Les sauvegardes expirent selon leur cycle normal."
+        }
+      ]
+    },
+    {
+      "title": "11. Responsabilités du client",
+      "blocks": [
+        {
+          "p": "Le client garantit la licéité des données, l'information des personnes, les bases légales, les durées de conservation métier et les habilitations de ses utilisateurs. Les données sensibles ou réglementées nécessitent une évaluation et des garanties adaptées avant leur traitement."
+        }
+      ]
+    },
+    {
+      "title": "12. Annexe 1 - Traitements couverts",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Élément", "Description"],
+            "rows": [
+              ["Objet", "Hébergement, accès applicatif, support, sauvegarde et reprise"],
+              ["Durée", "Durée du Contrat et période de restitution"],
+              [
+                "Personnes concernées",
+                "Salariés, clients, fournisseurs et autres contacts du client"
+              ],
+              [
+                "Données",
+                "Identification, coordonnées, comptes et données de gestion liées aux modules utilisés"
+              ],
+              ["Finalités", "Celles définies par le client"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "13. Annexe 2 - Partenaires",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Partenaire", "Rôle"],
+            "rows": [
+              ["Hodi", "Hébergement de production à Grand-Bassam ; plan de reprise à Johannesburg"],
+              ["CRMPUNCH", "Développement et support, avec accès techniques contrôlés"]
+            ]
+          }
+        },
+        {
+          "p": "Les prestataires complémentaires activés figurent dans l'espace client ou dans les documents contractuels applicables."
+        }
+      ]
+    },
+    {
+      "title": "14. Annexe 3 - Mesures de sécurité",
+      "blocks": [
+        {
+          "ul": [
+            "contrôle des accès fondé sur des rôles et des permissions, et authentification multifacteur ;",
+            "isolation des environnements entre clients ;",
+            "protection des flux (TLS) et chiffrement au repos selon l'architecture ;",
+            "gestion des secrets et journalisation des accès ;",
+            "sauvegardes automatiques, suivi des incidents et mesures de continuité."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "15. Acceptation, preuve et priorité contractuelle",
+      "blocks": [
+        {
+          "p": "L'acceptation s'effectue exclusivement sur le portail NELIAS, par une personne habilitée à engager l'entreprise, au moyen d'une action explicite : cases non précochées et bouton de confirmation. Dans le parcours standard, aucun document imprimé ni signature manuscrite n'est requis. NELIAS conserve, dans les limites de la loi, les éléments nécessaires à la preuve : identité du compte, entreprise, date et heure, versions et empreinte des documents acceptés, récapitulatif de la commande et données techniques de la confirmation. Lorsqu'une signature électronique renforcée est légalement requise, elle est intégrée au parcours numérique."
+        },
+        {
+          "p": "Pour le traitement des données personnelles du client, le présent DPA prévaut sur les CGV et les CGU en cas de contradiction, sous réserve des lois impératives."
+        }
+      ]
+    }
+  ]
+}

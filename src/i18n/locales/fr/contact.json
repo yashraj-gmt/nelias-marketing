@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "title": "Parlons de votre entreprise.",
+    "lead": "Dites-nous ce que vous faites, quels outils vous utilisez aujourd’hui et ce que vous souhaitez améliorer. Notre équipe peut vous aider à identifier les fonctionnalités et la configuration adaptées à votre entreprise."
+  },
+  "demo": { "title": "Réserver une démo" },
+  "seo": {
+    "contactTitle": "Contact | NELIAS BMP",
+    "demoTitle": "Réserver une démo | NELIAS BMP",
+    "description": "Dites-nous ce que vous faites, quels outils vous utilisez aujourd’hui et ce que vous souhaitez améliorer."
+  },
+  "details": {
+    "title": "Coordonnées",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "address": "Localisation"
+  },
+  "hours": {
+    "title": "Horaires d’ouverture",
+    "schedule": "Lundi – Vendredi\u00A0: 08h00 – 18h00 (GMT)",
+    "response": "Délai de réponse habituel\u00A0: sous 24 heures ouvrées"
+  },
+  "map": {
+    "title": "Notre siège à Abidjan",
+    "lead": "Rencontrez notre équipe à Abidjan, Côte d'Ivoire ou contactez-nous pour des consultations sur site et à distance.",
+    "city": "Abidjan, Côte d'Ivoire"
+  },
+  "demoSidebar": {
+    "title": "Ce qui vous attend lors de votre démo",
+    "lead": "Une session personnalisée avec un spécialiste produit NELIAS.",
+    "items": [
+      {
+        "title": "Visite guidée personnalisée",
+        "desc": "Une exploration en direct de 30\u00A0minutes centrée sur vos processus et vos objectifs opérationnels."
+      },
+      {
+        "title": "Configuration sectorielle",
+        "desc": "Découvrez comment NELIAS s’adapte à votre secteur grâce à des parcours préconfigurés."
+      },
+      {
+        "title": "Fonctionnalités clés de la plateforme",
+        "desc": "Explorez la gestion multi-entités, la facturation, les stocks et les tableaux de bord."
+      },
+      {
+        "title": "Échanges avec nos spécialistes",
+        "desc": "Obtenez des réponses directes sur le déploiement, l’intégration, la migration et la tarification."
+      }
+    ],
+    "altContactTitle": "Besoin d’une assistance générale\u00A0?",
+    "altContactDesc": "Pour toute question générale ou demande d’information, contactez-nous directement.",
+    "altContactLink": "Contacter notre équipe"
+  },
+  "form": {
+    "srTitle": { "contact": "Formulaire de contact", "demo": "Formulaire de demande de démo" },
+    "requiredNote": "Les champs marqués d’un astérisque (*) sont obligatoires.",
+    "fullName": "Nom complet",
+    "workEmail": "E-mail professionnel",
+    "company": "Entreprise",
+    "country": "Pays",
+    "industry": "Secteur",
+    "companySize": "Taille de l’entreprise",
+    "companySizeHint": "Nombre d’employés",
+    "businessNeeds": "Besoins de l’entreprise",
+    "businessNeedsHint": "Sélectionnez les domaines fonctionnels qui vous intéressent.",
+    "message": "Message",
+    "counter": "{{count}} caractères sur {{max}}",
+    "other": "Autre",
+    "consent": "J’accepte d’être recontacté(e) au sujet de ma demande."
+  },
+  "sizes": {
+    "s1": "1 à 10 employés",
+    "s2": "11 à 50 employés",
+    "s3": "51 à 200 employés",
+    "s4": "201 à 500 employés",
+    "s5": "Plus de 500 employés"
+  },
+  "errors": {
+    "summaryTitle": "Veuillez corriger les points suivants",
+    "fullName": "Veuillez saisir votre nom complet.",
+    "emailRequired": "Veuillez saisir votre e-mail professionnel.",
+    "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+    "company": "Veuillez saisir le nom de votre entreprise.",
+    "consent": "Veuillez confirmer votre consentement pour continuer.",
+    "submitFailed": "Nous n’avons pas pu envoyer votre demande. Veuillez réessayer ou nous contacter directement.",
+    "mailtoTooLong": "Votre message est trop long pour être envoyé par e-mail. Veuillez le raccourcir ou nous écrire directement."
+  },
+  "feedback": {
+    "successTitle": "Merci",
+    "success": {
+      "contact": "Nous avons bien reçu votre message.",
+      "demo": "Nous avons bien reçu votre demande de démo."
+    },
+    "mailtoTitle": "Votre e-mail est prêt",
+    "mailtoBody": "Votre application de messagerie devrait s’ouvrir avec votre message prêt à être envoyé. Si ce n’est pas le cas, écrivez-nous à {{email}}.",
+    "writeTo": "Écrire à {{email}}"
+  },
+  "mail": {
+    "subject": { "contact": "[NELIAS] Demande de contact", "demo": "[NELIAS] Demande de démo" },
+    "language": "Langue"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "Data Processing Agreement",
+    "version": "NELIAS BMP │ Version 2.0 │ 29 October 2026",
+    "publisher": "Publisher: Debass Technologies SARL • https://nelias.app",
+    "intro": "Contractual annex to the NELIAS Terms of Sale and Subscription. It applies from the Customer’s acceptance of the Contract.",
+    "notice": "This English version is provided for convenience. In the event of any discrepancy, the French version prevails."
+  },
+  "seo": {
+    "title": "Data Processing Agreement | NELIAS BMP",
+    "description": "Data Processing Agreement of NELIAS BMP, version 2.0, 29 October 2026."
+  },
+  "page": {
+    "contents": "Contents",
+    "languageLink": "Read this document in French"
+  },
+  "articles": [
+    {
+      "title": "1. Parties and purpose",
+      "blocks": [
+        {"p": "This agreement (“DPA”) is entered into between (i) the customer company identified in the purchase order or order summary (the “Customer”) and (ii) Debass Technologies SARL, share capital 5,000,000 FCFA, RCCM CI-ABJ-3-2024-M-16771, NCC 2401322M, Cocody, Abidjan, Côte d’Ivoire, represented by Jules TIEMOKO (“Debass”). Contact: info@debasstechnologies.com; +225 05 64 05 90 60."},
+        {"p": "The DPA governs the processing of personal data carried out by Debass to provide NELIAS BMP to the Customer, in accordance with the Contract and applicable law, in particular Ivorian Law No. 2013-450 of 19 June 2013 on the protection of personal data, subject to the requirements applicable to each Customer and territory. It is accepted under article 14."}
+      ]
+    },
+    {
+      "title": "2. Roles and scope",
+      "blocks": [
+        {"p": "For data that the Customer enters into its NELIAS environment and whose purposes and essential means it determines, the Customer acts as controller and Debass as processor. For prospecting, invoicing and administration data relating to its own accounts, Debass acts as a separate controller, in accordance with its Privacy Policy. The actual roles prevail over contractual labels."}
+      ]
+    },
+    {
+      "title": "3. Documented instructions",
+      "blocks": [
+        {"p": "Debass processes data on the Customer’s documented instructions, as defined in the Contract, the configuration of the Services, authorised support requests and additional written instructions consistent with the Contract. The Customer warrants that its instructions are lawful. Debass informs the Customer of any instruction it considers manifestly contrary to the law, unless prohibited by law, and may suspend it pending confirmation or amendment."},
+        {"p": "Instructions that exceed the scope of the Contract, or that require specific development, resources or time, may be refused or made subject to a prior quote. Debass is not liable for the consequences of a Customer instruction that complies with the Contract."}
+      ]
+    },
+    {
+      "title": "4. Confidentiality and access",
+      "blocks": [
+        {"p": "Debass ensures that persons authorised to access the data are bound by a confidentiality obligation and access it only on a need-to-know basis. Administrator and support access is individualised, limited and logged to the extent of the capabilities deployed. The Customer manages the permissions of its own users and remains responsible for their actions."}
+      ]
+    },
+    {
+      "title": "5. Technical and organisational measures",
+      "blocks": [
+        {"p": "Debass implements measures appropriate to the risks, described in Annex B and adjusted according to the scope subscribed. These measures are a best-efforts obligation. Debass may change them, provided it does not substantially reduce the overall level of protection. Availability, timing and performance objectives fall under the applicable SLA. The Customer is responsible for the security of its own access, devices and networks."}
+      ]
+    },
+    {
+      "title": "6. Sub-processors",
+      "blocks": [
+        {"p": "The Customer gives Debass general authorisation to use the sub-processors listed in Annex C, within the limits of the necessary services. Debass imposes appropriate confidentiality, security and assistance obligations on its sub-processors and remains liable to the Customer for the performance of its own obligations under this DPA, within the limits of article 13."},
+        {"p": "Debass informs the Customer of any substantial addition or replacement of a sub-processor with thirty (30) days’ notice, by email or in the customer area, except in the event of a security emergency or legal obligation. Within fifteen (15) days of that notice, the Customer may raise a reasoned objection based on data protection. The parties seek a solution in good faith; failing that, the Customer may terminate the service concerned before the effective date of the change, with a pro rata refund of prepaid sums covering the period thereafter, which is its sole remedy. Absent objection within the period, the change is deemed accepted."}
+      ]
+    },
+    {
+      "title": "7. Hosting, DRP and international access",
+      "blocks": [
+        {"p": "As at the date of this DPA, production hosting for NELIAS is provided with Hodi at the Grand-Bassam data centre (Côte d’Ivoire), presented by its operator as Tier III; the disaster recovery plan (DRP) site is located in Johannesburg (South Africa). In this architecture, hosted data and recovery copies remain on the African continent. This location does not mean that no remote access from another country is possible: authorised interventions by CRMPUNCH and other persons are subject to access control, confidentiality and the legal formalities applicable to international access or transfers. The countries from which such access is carried out are communicated to the Customer on written request."},
+        {"p": "Debass completes the formalities that are its responsibility for such access. The Customer remains responsible for the formalities and authorisations relating to its own processing, in particular with the Autorité de régulation des télécommunications/TIC de Côte d’Ivoire (ARTCI). A data-location commitment exists only if stipulated in the special conditions, in particular for a SOVEREIGN offer."}
+      ]
+    },
+    {
+      "title": "8. Assistance and data subject rights",
+      "blocks": [
+        {"p": "Taking into account the information available to it and the nature of the processing, Debass reasonably assists the Customer in responding to requests for access, rectification, erasure, objection and other applicable rights, in particular through platform functions. If a data subject contacts Debass directly about Customer data, Debass redirects them to the Customer, unless otherwise required. Requests requiring specific development or time may be invoiced with the Customer’s prior agreement."}
+      ]
+    },
+    {
+      "title": "9. Personal data breaches",
+      "blocks": [
+        {"p": "Debass informs the Customer without undue delay after becoming aware of and confirming a personal data breach affecting data processed on its behalf. The initial notification provides the information available: nature of the incident, categories of data, likely consequences, measures taken and contact point. Further details follow as the investigation proceeds. The notification does not constitute an admission of fault or liability."},
+        {"p": "The Customer remains responsible for notifications to the authority and to data subjects where the law assigns that responsibility to it; Debass provides the reasonable assistance required."}
+      ]
+    },
+    {
+      "title": "10. Impact assessments, checks and audits",
+      "blocks": [
+        {"p": "Debass provides, within reasonable limits of security, confidentiality and proportionality, the information needed to demonstrate compliance with its commitments, in particular in the form of documentation or audit reports and certifications of its sub-processors where they exist. Documentary audits may be organised no more than once a year, on thirty (30) days’ notice."},
+        {"p": "Any on-site inspection or technical test requires Debass’s prior agreement on its scope, duration, frequency and costs, which are borne by the Customer. The auditor is independent, not a competitor of Debass and bound by a confidentiality undertaking. The audit may not cover other customers’ data, or confidential Debass information unrelated to the purpose of the audit, nor disrupt the Services. Debass cooperates in impact assessments and regulatory consultations where the processing concerned requires it, at the Customer’s expense for requests that exceed reasonable assistance."}
+      ]
+    },
+    {
+      "title": "11. Term, return and deletion",
+      "blocks": [
+        {"p": "The DPA applies throughout the provision of the service and for as long as Debass processes personal data on the Customer’s behalf. At the end of the Contract, the Customer may export its data in the formats and under the conditions provided in the Contract, within thirty (30) days after the end of the service. Thereafter, Debass deletes or anonymises active data, unless retention is legally required; backup copies are removed according to their documented cycle, with no operational reuse. Debass may keep the elements strictly necessary to evidence performance of the Contract and to defend its rights."}
+      ]
+    },
+    {
+      "title": "12. Customer responsibilities",
+      "blocks": [
+        {"p": "The Customer determines the purposes, legal bases, categories of persons and data, business retention periods and user permissions. It provides the required information to data subjects, obtains the necessary authorisations, completes the formalities that are its responsibility with the competent authority, avoids excessive collection and does not use NELIAS to process sensitive categories or regulated data without Debass’s prior written validation of appropriate technical, contractual and legal safeguards."},
+        {"p": "The Customer indemnifies Debass against any claim by a third party or an authority resulting from a breach by the Customer of the obligations of this article or from its unlawful instructions, under article 11 of the Terms of Sale."}
+      ]
+    },
+    {
+      "title": "13. Liability",
+      "blocks": [
+        {"p": "Debass’s liability under the DPA is subject to the exclusions and caps in article 11 of the Terms of Sale. These caps are overall, and do not accumulate with those of the Terms of Sale and the SLA: they apply to all claims arising from the Contract, whatever the basis. Debass is not liable for damage caused by the Customer’s failure to comply with the obligations of this DPA or the law, nor for damage resulting from a Customer instruction."}
+      ]
+    },
+    {
+      "title": "14. Order of priority, acceptance and amendments",
+      "blocks": [
+        {"p": "In the event of a conflict concerning the protection of data processed on the Customer’s behalf, this DPA prevails over the Terms of Sale and the ToU to the extent of that conflict; the special contract may provide for enhanced requirements expressly accepted by Debass. Applicable mandatory provisions remain paramount."},
+        {"p": "Acceptance is given by an explicit action (unticked box and confirmation button) taken by a person authorised to bind the company, or by handwritten or electronic signature of the quote, purchase order or document concerned. It constitutes the Customer’s signature and commitment. Debass keeps, within the limits of the law, the evidence (user account, date and time, version of the accepted documents, IP address, order summary); these records are authoritative unless proven otherwise."},
+        {"p": "Debass may amend the DPA to reflect a legal or technical change; substantial amendments are notified to the Customer at least thirty (30) days before taking effect, under the Terms of Sale."}
+      ]
+    },
+    {
+      "title": "15. Governing law and disputes",
+      "blocks": [
+        {"p": "The DPA is governed by the law of the Republic of Côte d’Ivoire. Disputes are resolved in accordance with article 18 of the Terms of Sale."}
+      ]
+    },
+    {
+      "title": "Annex A — Description of the processing",
+      "blocks": [
+        {"table": {"head": ["Item", "Description"], "rows": [["Purpose", "Hosting and provision of the NELIAS BMP platform, administration, support, maintenance and disaster recovery."], ["Duration", "Term of the subscription and the contractual return or deletion period."], ["Operations", "Collection by the Customer, storage, authorised consultation, organisation, modification, transmission on instruction, backup, export, deletion."], ["Data subjects", "Employees, customers, prospects, suppliers, contacts and other persons recorded by the Customer."], ["Categories of data", "Identification, contact details, professional data, user accounts, management data and data specific to the modules activated."], ["Purposes", "Those defined by the Customer in its activities. Debass does not use Customer data for its own commercial purposes; it may use technical data and aggregated, anonymised statistics, under the Contract."], ["Sensitive data", "Excluded from the standard scope, unless Debass gives prior written validation and additional safeguards are in place."]]}}
+      ]
+    },
+    {
+      "title": "Annex B — Technical and organisational measures",
+      "blocks": [
+        {"p": "Debass applies, to the extent of the Services subscribed and the architecture deployed, the following measures:"},
+        {"ul": ["authentication and role-based access rights management, multi-factor authentication depending on the plan;", "logging of administration, billing and provisioning actions;", "logical separation and isolation of environments between customers;", "encryption of exchanges (TLS) and, depending on the architecture adopted, protection of data and backups;", "updates, patches and vulnerability monitoring;", "periodic backups and disaster recovery procedures;", "security incident management procedures;", "control and traceability of remote support and maintenance access;", "deletion and retention of data according to the documented periods."]},
+        {"p": "As no system is free of risk, these measures are best-efforts obligations. RPO and RTO values, backup frequency and log retention are not guaranteed by this DPA; they bind Debass only if set out in a technical annex signed by Debass."}
+      ]
+    },
+    {
+      "title": "Annex C — Identified sub-processors",
+      "blocks": [
+        {"table": {"head": ["Sub-processor", "Role and location"], "rows": [["Hodi", "Cloud hosting, storage, backup and disaster recovery: Grand-Bassam (Côte d’Ivoire) and Johannesburg (South Africa), depending on the services contracted."], ["CRMPUNCH", "Development, integration, maintenance and technical support, with controlled remote access. The countries of access are communicated on written request."], ["Other providers", "Payment, messaging, notifications and optional services: added only when actually activated for the Customer, with the notice provided in article 6."]]}}
+      ]
+    },
+    {
+      "title": "Annex D — Customer-specific elements",
+      "blocks": [
+        {"p": "The following elements are stated in the purchase order or order summary or, failing that, communicated in writing by the Customer to Debass: the Customer’s company name and contact details; effective date; reference contract; any special categories of data processed and validated by Debass; sector-specific requirements; notification address for sub-processor changes; formalities completed with ARTCI and other authorisations. Failing that, the customer account details prevail."}
+      ]
+    },
+    {
+      "title": "Signatures",
+      "blocks": [
+        {"table": {"head": ["For the Customer", "For Debass Technologies SARL"], "rows": [["Name and position:", "Jules TIEMOKO, legal representative"], ["Date and signature:", "Date and signature:"]]}},
+        {"p": "This DPA may be accepted electronically under article 14, in which case a handwritten signature is not required."}
+      ]
+    }
+  ]
+}

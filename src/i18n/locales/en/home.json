@@ -1,0 +1,164 @@
+{
+  "seo": {
+    "title": "NELIAS BMP | Business Management Platform",
+    "description": "One platform. Many businesses. NELIAS builds the management environment that fits your company, with public prices in FCFA.",
+    "descriptionNoPrices": "One platform. Many businesses. NELIAS builds the management environment that fits your company."
+  },
+  "hero": {
+    "eyebrow": "Business Management Platform",
+    "title": "Tell us what your business does.",
+    "subtitle": "NELIAS builds the management environment that fits it.",
+    "simulatePrice": "Simulate my price",
+    "reassurance": "NELIAS BMP, powered by Debass Technologies - public prices in FCFA, hosting available in Côte d’Ivoire."
+  },
+  "heroTiles": {
+    "sales": "Sales",
+    "crm": "CRM",
+    "purchasing": "Purchasing",
+    "inventory": "Inventory",
+    "accounting": "Accounting",
+    "projects": "Projects"
+  },
+  "modules": {
+    "title": "14 modules, build your own",
+    "intro": "Each plan includes a number of standard modules: {{start}} with START, {{business}} with BUSINESS, {{professional}} with PROFESSIONAL. The Sector Engine recommends a selection for your business. You can adjust it freely among the compatible modules. The technical Core does not count towards this number.",
+    "families": {
+      "customerRelations": "Customer relations",
+      "operations": "Operations",
+      "financeTeams": "Finance and teams"
+    },
+    "names": {
+      "sales": "Sales",
+      "crm": "CRM",
+      "marketing": "Marketing",
+      "customerSupport": "Customer Support",
+      "pointOfSale": "Point of Sale",
+      "purchasing": "Purchasing",
+      "inventory": "Inventory",
+      "production": "Production",
+      "quality": "Quality",
+      "assets": "Assets",
+      "accounting": "Accounting",
+      "payroll": "Payroll",
+      "hr": "HR",
+      "projects": "Projects"
+    },
+    "extraModule": "Additional standard module: {{amount}} excl. VAT per month per module, beyond the number included in your plan.",
+    "benefits": {
+      "zeroReentry": {
+        "title": "Zero re-entry",
+        "text": "Information entered once is available in every module."
+      },
+      "tracking": {
+        "title": "End-to-end tracking",
+        "text": "You follow every order, from first contact to the accounting entry."
+      },
+      "roles": {
+        "title": "Roles and permissions",
+        "text": "Role-based access and multi-factor authentication for all users."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Four plans, the right capacity",
+    "introPrices": "Public prices in FCFA, excluding VAT.",
+    "introLocation": "No price is calculated per office, store or warehouse: the location of your teams is not a pricing criterion.",
+    "table": {
+      "plans": {
+        "start": "START",
+        "business": "BUSINESS",
+        "professional": "PROFESSIONAL",
+        "enterprise": "ENTERPRISE"
+      },
+      "rows": {
+        "for": "For",
+        "monthly": "Monthly price excl. VAT",
+        "annual": "Annual price excl. VAT",
+        "modules": "Standard modules included",
+        "users": "Users included",
+        "entities": "Legal entities",
+        "storage": "Storage included",
+        "engine": "Sector Engine",
+        "level": "Service level"
+      },
+      "for": {
+        "start": "Very small and small businesses",
+        "business": "SMEs",
+        "professional": "Structured companies",
+        "enterprise": "Large companies, groups"
+      },
+      "onQuote": "On quote",
+      "asNeeded": "As needed",
+      "multiEntity": "Multi-entity",
+      "sizedToNeed": "Sized to need",
+      "included": "Included",
+      "levels": {
+        "start": "Standard",
+        "business": "Standard+",
+        "professional": "Priority",
+        "enterprise": "SLA"
+      }
+    },
+    "annual": "Annual payment: 10 months billed for 12 months of service.",
+    "enterprise": "Enterprise: dedicated, sovereign, hybrid or on-premise environment, SSO and specific SLA, sized on quote.",
+    "legal": "Indicative prices excluding VAT and excluding set-up, migration and training services, which are quoted according to your project.",
+    "cta": "See full pricing"
+  },
+  "security": {
+    "title": "Security and data isolation",
+    "items": {
+      "access": "Role-based access and multi-factor authentication for all users; single sign-on depending on the offer.",
+      "encryption": "Encryption of exchanges (TLS) and of data according to the architecture adopted.",
+      "isolation": "Strict isolation between customers and automatic backups.",
+      "audit": "Audit log of administration, billing and provisioning actions."
+    }
+  },
+  "why": {
+    "title": "Why NELIAS",
+    "items": {
+      "prices": {
+        "title": "Clear prices in FCFA",
+        "text": "Public monthly and annual prices, explained line by line."
+      },
+      "africa": {
+        "title": "Data in Africa",
+        "text": "Hosting available in Côte d’Ivoire."
+      },
+      "configured": {
+        "title": "Configured for your business",
+        "text": "You describe your activity, the platform builds the environment."
+      },
+      "path": {
+        "title": "A clear path",
+        "text": "Simple plans, clearly identified extensions, services quoted separately."
+      },
+      "proximity": {
+        "title": "Proximity",
+        "text": "A local publisher, at your side for set-up and change management."
+      },
+      "payment": {
+        "title": "Local payment",
+        "text": "Local payment methods, according to the gateways validated per country."
+      }
+    }
+  },
+  "about": {
+    "title": "Your company is unique. So is your management platform.",
+    "p1": "NELIAS BMP is a business management platform designed for African companies. We start from your business: you describe your activity, and NELIAS builds the management environment that fits it.",
+    "p2a": "We believe a platform should be simple to buy, transparent to evolve and measurable to operate.",
+    "p2b": "That is why our prices are public, in FCFA, and every line of a quote is explained.",
+    "p3": "NELIAS BMP is powered by Debass Technologies, a telecoms and information-systems integrator based in Abidjan. We provide the product, the customer relationship and first-level support, with partners for development and hosting.",
+    "taglines": [
+      "One platform. Many businesses.",
+      "Your environment, automatically.",
+      "Your data, hosted close to you."
+    ]
+  },
+  "final": {
+    "title": "Tell us what your business does.",
+    "body": "An advisor will reply and validate the configuration with you before any order."
+  },
+  "composition": {
+    "address": "yourcompany.nelias.app"
+  }
+}

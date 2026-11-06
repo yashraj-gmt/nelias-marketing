@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#002B52" />
+    <script>
+      (function () {
+        try {
+          var q = new URLSearchParams(window.location.search).get("theme");
+          var s = localStorage.getItem("nelias-theme");
+          var t =
+            q === "dark" || q === "light"
+              ? q
+              : s === "dark" || s === "light"
+                ? s
+                : window.matchMedia("(prefers-color-scheme: dark)").matches
+                  ? "dark"
+                  : "light";
+          document.documentElement.setAttribute("data-theme", t);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      })();
+    </script>
+    <meta
+      name="description"
+      content="One platform. Multiple industries. Your environment, automatically configured."
+    />
+    <title>NELIAS | Business Management Platform</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

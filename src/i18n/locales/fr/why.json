@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Le logiciel devrait s’adapter à votre entreprise - et non l’inverse.",
+    "lead": "Traditionnellement, l’achat d’un logiciel commence souvent par des modules et des licences. NELIAS part de l’entreprise elle-même\u00A0: ce que vous faites, la façon dont vous fonctionnez et les fonctionnalités qui comptent le plus."
+  },
+  "challenges": {
+    "title": "Défis et bénéfices",
+    "challengeLabel": "Défi courant",
+    "responseLabel": "La réponse de NELIAS",
+    "items": [
+      {
+        "challenge": "Systèmes déconnectés",
+        "response": "Une approche unifiée pour vos processus clés de gestion."
+      },
+      {
+        "challenge": "Paramétrage logiciel générique",
+        "response": "Une configuration adaptée au secteur grâce au Sector Engine."
+      },
+      {
+        "challenge": "Tâches manuelles entre départements",
+        "response": "Des flux connectés et une automatisation progressive."
+      },
+      {
+        "challenge": "Une croissance plus rapide que les outils",
+        "response": "Une extension modulaire des fonctionnalités et de la capacité."
+      },
+      {
+        "challenge": "Visibilité opérationnelle limitée",
+        "response": "Un socle de données partagé et des outils de reporting."
+      }
+    ]
+  },
+  "differentiator": {
+    "statement": "NELIAS ne se contente pas de fournir des modules aux entreprises. Elle aide à comprendre leurs besoins, à composer leur environnement et à simplifier leurs processus."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "NELIAS | Business Management Platform",
+    "description": "Discover NELIAS, a Business Management Platform designed to adapt to your business and industry."
+  },
+  "industries": {
+    "title": "Industries | NELIAS BMP",
+    "description": "Explore sector-aware management configurations for different business activities."
+  },
+  "features": {
+    "title": "Features | NELIAS BMP",
+    "description": "Explore management capabilities, workflows, reporting and integrations."
+  },
+  "pricing": {
+    "title": "NELIAS Pricing | Plans and Options",
+    "description": "Review proposed platform plans and learn how capacity and options shape pricing."
+  },
+  "about": {
+    "title": "About NELIAS | By Debass Technologies",
+    "description": "Learn about the vision behind NELIAS and its business-first platform approach."
+  },
+  "social": {
+    "title": "NELIAS - Your business is unique. Your platform should be too.",
+    "description": "One platform. Multiple industries. Your environment, automatically configured."
+  },
+  "notFound": {
+    "title": "Page not found | NELIAS",
+    "description": "The page you are looking for does not exist."
+  },
+  "fallback": {
+    "title": "NELIAS",
+    "description": "One platform. Multiple industries. Your environment, automatically configured."
+  }
+}

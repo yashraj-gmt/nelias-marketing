@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "title": "Accord de niveau de service (SLA)",
+    "version": "NELIAS BMP | Version 1.1 - Publication portail | 13 octobre 2026",
+    "publisher": "Éditeur : Debass Technologies SARL • https://nelias.app"
+  },
+  "seo": {
+    "title": "Accord de niveau de service (SLA) | NELIAS BMP",
+    "description": "Accord de niveau de service (SLA) de NELIAS BMP, version 1.1, publication portail, 13 octobre 2026."
+  },
+  "page": {
+    "contents": "Sommaire",
+    "languageLink": "Lire ce document en anglais"
+  },
+  "articles": [
+    {
+      "title": "1. Objet",
+      "blocks": [
+        {
+          "p": "Le présent SLA définit le niveau de service standard applicable aux abonnements de production à NELIAS BMP. Des conditions particulières affichées et acceptées lors de la commande ou du devis peuvent prévoir un niveau supérieur."
+        }
+      ]
+    },
+    {
+      "title": "2. Périmètre",
+      "blocks": [
+        {
+          "p": "Le SLA couvre l'accès à la plateforme de production et le support applicatif. Sauf mention contraire, il ne couvre pas : l'accès Internet du client, ses équipements et configurations locales, les services de tiers indépendants, les développements spécifiques et les environnements pilotes."
+        }
+      ]
+    },
+    {
+      "title": "3. Niveaux de service par offre",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Offre", "Niveau de service", "Application"],
+            "rows": [
+              ["START", "Standard", "Engagements du présent SLA"],
+              [
+                "BUSINESS",
+                "Standard+",
+                "Engagements du niveau Standard ; tickets traités avant ceux du niveau Standard"
+              ],
+              [
+                "PROFESSIONAL",
+                "Prioritaire",
+                "Engagements du niveau Standard ; tickets traités avant ceux des niveaux Standard et Standard+"
+              ],
+              [
+                "ENTERPRISE",
+                "SLA",
+                "Niveau défini dans le devis ou les conditions particulières acceptés"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Les délais chiffrés de l'article 7 sont des délais maximaux de première prise en charge ; les niveaux Standard+ et Prioritaire déterminent l'ordre de traitement des tickets, sans réduire ces délais, sauf mention contraire dans la commande."
+        }
+      ]
+    },
+    {
+      "title": "4. Hébergement et continuité",
+      "blocks": [
+        {
+          "p": "L'hébergement principal est assuré avec Hodi à Grand-Bassam (Côte d'Ivoire) ; un plan de reprise après sinistre (PRA) est organisé à Johannesburg (Afrique du Sud). CRMPUNCH intervient en support technique."
+        },
+        {
+          "p": "Cette architecture ne garantit ni une bascule instantanée, ni l'absence totale de perte de données."
+        }
+      ]
+    },
+    {
+      "title": "5. Disponibilité",
+      "blocks": [
+        {
+          "p": "Objectif standard : 99,5 % de disponibilité mensuelle de l'environnement de production, soit au plus environ 3 h 36 d'indisponibilité pour un mois de 30 jours."
+        },
+        {
+          "p": "Le taux se calcule sur les minutes du mois civil : (minutes du mois − minutes d'indisponibilité) ÷ minutes du mois, hors exclusions. L'indisponibilité désigne l'impossibilité généralisée d'utiliser les fonctions essentielles, constatée par la supervision ou confirmée par Debass."
+        }
+      ]
+    },
+    {
+      "title": "6. Exclusions",
+      "blocks": [
+        {
+          "p": "Ne sont pas comptés dans l'indisponibilité : les maintenances annoncées, la force majeure, la panne du réseau ou des équipements du client, l'erreur de configuration du client, l'interruption causée par un tiers indépendant et la mesure de sécurité urgente raisonnablement nécessaire."
+        },
+        { "p": "Ces exclusions ne couvrent pas une défaillance directement imputable à Debass." }
+      ]
+    },
+    {
+      "title": "7. Support et délais de première réponse",
+      "blocks": [
+        {
+          "p": "Le support standard est assuré du lundi au vendredi, de 8 h à 18 h (heure d'Abidjan), hors jours fériés ivoiriens, par les canaux indiqués dans l'espace client. Ces plages constituent les « heures ouvrées ». Une demande reçue en dehors de ces heures est prise en compte le jour ouvré suivant. Une astreinte 24 h/24 n'existe que si elle figure expressément dans la commande."
+        },
+        {
+          "table": {
+            "head": ["Priorité", "Définition", "Première réponse"],
+            "rows": [
+              ["P1 - critique", "Service globalement inaccessible", "4 heures ouvrées"],
+              ["P2 - élevée", "Fonction essentielle bloquée", "8 heures ouvrées"],
+              ["P3 - moyenne", "Dégradation avec solution de contournement", "2 jours ouvrés"],
+              ["P4 - faible", "Question ou anomalie mineure", "3 jours ouvrés"]
+            ]
+          }
+        },
+        {
+          "p": "Ces délais visent une première prise en charge ; ils ne garantissent pas une résolution dans le même délai."
+        }
+      ]
+    },
+    {
+      "title": "8. Maintenance",
+      "blocks": [
+        {
+          "p": "Les maintenances susceptibles d'affecter significativement le service sont annoncées en principe 48 heures à l'avance. Une intervention urgente de sécurité peut avoir lieu sans préavis ; le client est informé dès que possible."
+        }
+      ]
+    },
+    {
+      "title": "9. Sauvegardes et reprise",
+      "blocks": [
+        {
+          "p": "Debass organise des sauvegardes et un dispositif de reprise adaptés au service. Le SLA standard ne garantit ni délai de restauration (RTO) ni volume maximal de données perdues (RPO). Des objectifs spécifiques peuvent être définis dans une offre particulière et acceptés électroniquement."
+        }
+      ]
+    },
+    {
+      "title": "10. Suivi des incidents",
+      "blocks": [
+        {
+          "p": "Le client ouvre un ticket depuis le portail, décrit l'incident et fournit les informations utiles sans divulguer de secret (mot de passe, clé d'accès). Debass qualifie la priorité, coordonne les partenaires et communique les informations pertinentes selon la gravité."
+        }
+      ]
+    },
+    {
+      "title": "11. Compensation",
+      "blocks": [
+        {
+          "p": "Le SLA standard ne prévoit pas de crédit de service automatique. Les droits impératifs du client et les recours prévus par les CGV restent applicables. Des crédits spécifiques peuvent être convenus dans une offre ENTERPRISE."
+        }
+      ]
+    },
+    {
+      "title": "12. Responsabilités du client",
+      "blocks": [
+        {
+          "p": "Le client protège ses terminaux et ses identifiants, tient ses coordonnées à jour, coopère au diagnostic et réalise les exports complémentaires utiles à ses propres obligations."
+        }
+      ]
+    },
+    {
+      "title": "13. Acceptation et modification",
+      "blocks": [
+        {
+          "p": "L'acceptation s'effectue exclusivement sur le portail NELIAS, par une personne habilitée à engager l'entreprise, au moyen d'une action explicite : cases non précochées et bouton de confirmation. Dans le parcours standard, aucun document imprimé ni signature manuscrite n'est requis. NELIAS conserve, dans les limites de la loi, les éléments nécessaires à la preuve : identité du compte, entreprise, date et heure, versions et empreinte des documents acceptés, récapitulatif de la commande et données techniques de la confirmation. Lorsqu'une signature électronique renforcée est légalement requise, elle est intégrée au parcours numérique."
+        },
+        {
+          "p": "Toute modification substantielle des niveaux de service applicables fait l'objet d'une information et, si nécessaire, d'une nouvelle acceptation."
+        }
+      ]
+    },
+    {
+      "title": "14. Droit applicable",
+      "blocks": [
+        {
+          "p": "Le présent SLA complète les CGV et relève du droit ivoirien, sous réserve des règles impératives applicables."
+        }
+      ]
+    }
+  ]
+}

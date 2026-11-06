@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "title": "Privacy Policy",
+    "version": "NELIAS BMP │ Version 5.0 │ 29 October 2026",
+    "publisher": "Publisher: Debass Technologies SARL • https://nelias.app",
+    "intro": "This policy takes effect upon its publication at https://nelias.app. It explains how Debass processes the personal data for which it is responsible.",
+    "notice": "This English version is provided for convenience. In the event of any discrepancy, the French version prevails."
+  },
+  "seo": {
+    "title": "Privacy Policy | NELIAS BMP",
+    "description": "Privacy Policy of NELIAS BMP, version 5.0, 29 October 2026."
+  },
+  "page": {
+    "contents": "Contents",
+    "languageLink": "Read this document in French"
+  },
+  "articles": [
+    {
+      "title": "1. Who processes your data?",
+      "blocks": [
+        {
+          "p": "For website forms, demonstration requests, the configurator, consented prospecting, the portal and customer account management, the controller is Debass Technologies, a limited liability company (SARL) with a share capital of 5,000,000 FCFA, registered in the Trade and Personal Property Credit Register (RCCM) under number CI-ABJ-3-2024-M-16771, taxpayer account number (NCC) 2401322M, with its registered office in Cocody, Abidjan (Côte d’Ivoire), represented by its legal representative, Jules TIEMOKO (“Debass”). Telephone: +225 05 64 05 90 60; email: info@debasstechnologies.com; website: https://www.debasstechnologies.com; NELIAS BMP platform: https://nelias.app."
+        },
+        {
+          "p": "For business data entered by a company in its NELIAS environment, that company is in principle the controller and Debass is its processor, depending on the operations concerned, the Contract and the DPA."
+        }
+      ]
+    },
+    {
+      "title": "2. Data collected",
+      "blocks": [
+        {
+          "p": "We may collect: first and last name, position, company, sector, city and country, business contact details, stated needs, headcount and envisaged users, configurator answers, commercial exchanges, account data, subscription, billing and support history, technical logs needed for security and operation, and consent choices."
+        },
+        {
+          "p": "Payments are processed by a specialist provider; Debass is not intended to keep full bank card numbers. Do not enter health data or other sensitive data in public forms."
+        }
+      ]
+    },
+    {
+      "title": "3. Why do we use this data?",
+      "blocks": [
+        {
+          "p": "To respond to requests and organise demonstrations; assess needs and propose a configuration; review pilot applications; create and administer accounts; provide, secure and support the Services; manage invoicing and legal obligations; establish or defend our rights; improve our services using technical and statistical data; and send commercial communications only under the applicable consent conditions."
+        },
+        {
+          "p": "Configurator recommendations are decision-support aids: they produce no legal effect on the person and are not based on solely automated decision-making."
+        }
+      ]
+    },
+    {
+      "title": "4. Legal bases for processing",
+      "blocks": [
+        {
+          "p": "Depending on the purpose: pre-contractual measures requested by the person, performance of a contract, legal obligation, legitimate interest where permitted and proportionate, or prior consent where required. Consent to prospecting is separate from acceptance of the form’s terms and may be withdrawn at any time."
+        },
+        {
+          "p": "Ivorian Law No. 2013-450 of 19 June 2013 on the protection of personal data governs the lawfulness, transparency, proportionality and protection of personal data."
+        }
+      ]
+    },
+    {
+      "title": "5. Mandatory nature of the information",
+      "blocks": [
+        {
+          "p": "Fields identified as mandatory are necessary to process the request concerned. Without this information, we may be unable to respond or to create the account. Optional fields allow us to personalise support better."
+        }
+      ]
+    },
+    {
+      "title": "6. Recipients and processors",
+      "blocks": [
+        {
+          "p": "Data may be accessible to authorised staff of Debass Technologies and, strictly as necessary, to providers involved in hosting (Hodi), development and support (CRMPUNCH), CRM, communications and payments. ERPNext/Frappe and WHMCS are technologies of the solution: their publishers are recipients only if they actually process data. Processors, their places of intervention, purposes, security measures and authorisations are recorded in a register and governed by contracts. Public authorities may receive data where the law so requires. We do not sell personal data."
+        }
+      ]
+    },
+    {
+      "title": "7. Hosting and international transfers",
+      "blocks": [
+        {
+          "p": "As at the date of this policy, NELIAS environment data is hosted primarily in Côte d’Ivoire, in a data centre presented by its operator as Tier III, located in Grand-Bassam. The disaster recovery plan (DRP) and the copies needed for recovery are hosted in Johannesburg, South Africa, with Hodi as hosting partner. This architecture provides for primary storage in Côte d’Ivoire and recovery storage in South Africa, with no retention of these copies outside the African continent. This location concerns the hosting and retention of data; it does not mean that no remote access from a country outside Africa is technically possible."
+        },
+        {
+          "p": "Any remote maintenance or support access from abroad, in particular by a technical partner, is limited, logged, secured and governed by contract, with the formalities and authorisations required by Ivorian law. This architecture may change; the policy is then updated. Third-party services activated later (messaging, CRM, payment, analytics) have their data flows analysed before going live."
+        }
+      ]
+    },
+    {
+      "title": "8. Retention periods",
+      "blocks": [
+        {
+          "p": "Subject to legal obligations, applicable contracts and ongoing disputes, the retention periods applied are as follows:"
+        },
+        {
+          "table": {
+            "head": [
+              "Category",
+              "Period"
+            ],
+            "rows": [
+              [
+                "Contact and demonstration requests not converted",
+                "Three (3) years after the last active exchange"
+              ],
+              [
+                "Pilot applications not selected",
+                "Twelve (12) months after closing"
+              ],
+              [
+                "Accounts and contractual data",
+                "During the contract, then archiving limited to the applicable limitation periods and obligations"
+              ],
+              [
+                "Accounting records",
+                "Ten (10) years, under the applicable OHADA and tax rules"
+              ],
+              [
+                "Technical and security logs",
+                "Twelve (12) months at most by default"
+              ],
+              [
+                "Operational backups",
+                "Thirty (30) day rotation, unless special conditions apply"
+              ],
+              [
+                "Prospecting data",
+                "Until consent is withdrawn or until it is no longer useful, with limited retention of evidence of objections"
+              ],
+              [
+                "After termination",
+                "Export of business data for thirty (30) days, then deletion of active data and expiry of backups according to their cycle"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "9. Security and confidentiality",
+      "blocks": [
+        {
+          "p": "Debass implements technical and organisational measures appropriate to the risks, in particular access control, permission management, secure transmission, backups, traceability and incident management procedures, according to the arrangements deployed. No system can guarantee zero risk; users protect their credentials and devices."
+        }
+      ]
+    },
+    {
+      "title": "10. Your rights",
+      "blocks": [
+        {
+          "p": "Under the conditions provided by applicable legislation, you may request information, access, rectification, objection and deletion of your data, as well as the other rights recognised by law. Send your request to contact@nelias.app stating its purpose; a reasonable identity check may be requested. We respond within a reasonable time; manifestly unfounded or abusive requests may be refused. For data that a customer company processes in its NELIAS environment, please first contact that company. You may also refer the matter to the competent Ivorian personal data protection authority (ARTCI)."
+        }
+      ]
+    },
+    {
+      "title": "11. Commercial prospecting",
+      "blocks": [
+        {
+          "p": "Signing up for a demonstration, the configurator or the pilot programme does not automatically constitute consent to receive marketing campaigns. An optional, unticked box is offered separately. Every prospecting message includes a simple way to unsubscribe."
+        }
+      ]
+    },
+    {
+      "title": "12. Cookies and audience measurement",
+      "blocks": [
+        {
+          "p": "Essential cookies ensure the operation and security of the website. Optional audience-measurement, personalisation or advertising trackers, if used, are described in a choice panel allowing them to be accepted or refused where the law requires."
+        }
+      ]
+    },
+    {
+      "title": "13. Customer companies’ data",
+      "blocks": [
+        {
+          "p": "User companies define the categories of data they integrate, the persons authorised and the purposes of their processing, and are responsible for informing data subjects. The DPA sets out instructions, confidentiality, sub-processors, incidents, assistance with the exercise of rights, return and deletion at the end of the contract."
+        }
+      ]
+    },
+    {
+      "title": "14. Minors and sensitive data",
+      "blocks": [
+        {
+          "p": "The website is intended for a professional audience. Public forms are not designed to collect personal data of minors or sensitive data. Regulated sector uses (in particular health, insurance or human resources) require analysis and specific safeguards validated in writing before deployment."
+        }
+      ]
+    },
+    {
+      "title": "15. Changes to the policy",
+      "blocks": [
+        {
+          "p": "This policy may be updated when processing, the architecture or regulations change. The version and the date of the update are shown on nelias.app; significant changes are communicated appropriately. It does not apply to third-party sites and services to which the website may link."
+        }
+      ]
+    },
+    {
+      "title": "16. Contact us",
+      "blocks": [
+        {
+          "p": "Privacy contact: contact@nelias.app or info@debasstechnologies.com | +225 05 64 05 90 60 | Debass Technologies, Cocody, Abidjan, Côte d’Ivoire. Legal representative: Jules TIEMOKO. Data protection correspondent: contact@nelias.app, for the attention of the data protection officer."
+        }
+      ]
+    }
+  ]
+}

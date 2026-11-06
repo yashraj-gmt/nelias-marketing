@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "title": "Terms of Sale and Subscription",
+    "version": "NELIAS BMP | Version 1.1 - Portal publication | 13 October 2026",
+    "publisher": "Publisher: Debass Technologies SARL • https://nelias.app",
+    "notice": "This English version is provided for convenience. In the event of any discrepancy, the French version prevails."
+  },
+  "seo": {
+    "title": "Terms of Sale and Subscription | NELIAS BMP",
+    "description": "Terms of Sale and Subscription of NELIAS BMP, version 1.1, portal publication, 13 October 2026."
+  },
+  "page": {
+    "contents": "Contents",
+    "languageLink": "Read this document in French"
+  },
+  "articles": [
+    {
+      "title": "1. Parties, scope and definitions",
+      "blocks": [
+        {
+          "p": "These terms are offered by Debass Technologies SARL, a limited liability company with a share capital of FCFA 5,000,000, registered in the Trade and Personal Property Credit Register (RCCM) under number CI-ABJ-3-2024-M-16771, taxpayer account number (NCC) 2401322M, with its registered office in Cocody, Abidjan (Côte d'Ivoire), represented by its legal representative, Jules TIEMOKO (“Debass”). Email: info@debasstechnologies.com - Telephone: +225 05 64 05 90 60 - Platform: https://nelias.app."
+        },
+        {
+          "p": "They govern professional subscriptions to NELIAS BMP, options and related services purchased by a company (the “customer”)."
+        },
+        {
+          "p": "The “Contract” consists of: the order accepted on the portal (the summary), these Terms of Sale, the Terms of Use, the Data Processing Agreement (DPA), the Service Level Agreement (SLA) and, where applicable, the special conditions, quote or pilot agreement accepted."
+        }
+      ]
+    },
+    {
+      "title": "2. Online subscription and formation of the Contract",
+      "blocks": [
+        {
+          "p": "The customer chooses its plan and options, checks the total price, accepts the applicable contractual documents and confirms its order on the portal. No signed paper quote is required in the standard journey."
+        },
+        {
+          "p": "The Contract is formed when NELIAS confirms the order electronically, subject to legitimate checks. Activation of the service depends on payment of the amount due (articles 6 and 10)."
+        }
+      ]
+    },
+    {
+      "title": "3. Plans, capacities and modules",
+      "blocks": [
+        {
+          "p": "NELIAS BMP is offered in four plans: START, BUSINESS, PROFESSIONAL and ENTERPRISE. Each plan defines a capacity (users, legal entities, storage) and a service level. The modules enabled result from the customer's business profile."
+        },
+        {
+          "p": "The order summary states, for the subscribed period: the plan, users, entities, storage, modules, connectors and options, prices and billing period. Features that are not yet available are not deemed included."
+        },
+        { "p": "The location of the customer's users or sites is not a pricing criterion." }
+      ]
+    },
+    {
+      "title": "4. Plans sold by quote",
+      "blocks": [
+        {
+          "p": "The ENTERPRISE plan, the Dedicated, Sovereign, Hybrid or On-Premise hosting modes, and configurations outside the standard rules are subject to a quote prepared after assessment. The quote is accepted electronically on the portal or under the special conditions it specifies. These Terms of Sale apply to it unless otherwise stated."
+        }
+      ]
+    },
+    {
+      "title": "5. Prices and taxes",
+      "blocks": [
+        {
+          "p": "The applicable prices are those displayed and expressly validated by the customer at the time of the order. They are expressed in FCFA, excluding taxes unless otherwise indicated."
+        },
+        {
+          "p": "For annual subscriptions, ten monthly payments are billed for twelve months of service."
+        },
+        {
+          "p": "Taxes, options, variable usage, integration fees and third-party services are shown to the customer before they are invoiced. Public prices may change for future periods, with at least 30 days' notice."
+        }
+      ]
+    },
+    {
+      "title": "6. Payment",
+      "blocks": [
+        {
+          "p": "Subscriptions are payable in advance according to the chosen billing period. The portal indicates the payment methods actually available."
+        },
+        {
+          "p": "Debass may refuse activation until the initial payment is confirmed. No automatic debit is made without the customer's valid authorisation."
+        }
+      ]
+    },
+    {
+      "title": "7. Term and renewal",
+      "blocks": [
+        {
+          "p": "The term of the Contract corresponds to the selected period (monthly or annual). Automatic renewal applies only if it was clearly presented and accepted at the time of the order. The customer views and manages its renewal in its customer area."
+        },
+        {
+          "p": "A changed price applies only to the future period, after the notice provided in article 5."
+        }
+      ]
+    },
+    {
+      "title": "8. Changing plan",
+      "blocks": [
+        {
+          "p": "Changes of plan, users, storage, modules or options are requested from the portal. The effect on price and the effective date are displayed before confirmation."
+        },
+        {
+          "p": "A reduction in capacity or plan may take effect at the end of the period already paid. It does not silently delete data: the customer is informed of the consequences before confirming."
+        }
+      ]
+    },
+    {
+      "title": "9. Late payment and suspension",
+      "blocks": [
+        {
+          "p": "If an invoice is overdue, Debass notifies the customer. Failing settlement, Debass may limit certain features, then suspend the service at the end of the settlement period stated in the notice, except in cases of urgency or fraud."
+        },
+        {
+          "p": "Sums due remain payable. The rights that the law mandatorily grants to the customer are preserved."
+        }
+      ]
+    },
+    {
+      "title": "10. Activation and customer obligations",
+      "blocks": [
+        {
+          "p": "Automated activation depends on payment, validation of the information provided, available capacity and, where applicable, technical prerequisites."
+        },
+        {
+          "p": "The customer manages its users, protects its access and warrants that it holds the necessary rights over the data it uploads."
+        }
+      ]
+    },
+    {
+      "title": "11. Third-party services and professional services",
+      "blocks": [
+        {
+          "p": "Integrations, migrations, training, specific developments, payment services and other third-party services are included only if they appear in the order. Their cost and timeline are accepted separately on the portal."
+        }
+      ]
+    },
+    {
+      "title": "12. Support and availability",
+      "blocks": [
+        {
+          "p": "The SLA describes the availability objectives and the support conditions. An incident arising from the customer's Internet access, its equipment or an independent third-party service does not, in itself, constitute a failure of NELIAS."
+        }
+      ]
+    },
+    {
+      "title": "13. Ownership and data",
+      "blocks": [
+        {
+          "p": "The customer remains the holder of its data. Debass retains its rights over NELIAS and its own components, subject to the licences of third-party components. The DPA governs personal data processed on the customer's behalf."
+        }
+      ]
+    },
+    {
+      "title": "14. Termination and return of data",
+      "blocks": [
+        {
+          "p": "The customer requests non-renewal or termination from its customer area, according to the subscribed period. Unless a mandatory rule applies or Debass has committed a serious breach, periods already begun and services already performed are not refunded."
+        },
+        {
+          "p": "The customer has 30 days after the end of the Contract to request the standard export of its data. After that period, the data is deleted or anonymised, subject to legal retention obligations; backups expire according to their normal cycle."
+        }
+      ]
+    },
+    {
+      "title": "15. Liability",
+      "blocks": [
+        {
+          "p": "To the extent permitted by law, Debass's cumulative contractual liability for a single event is capped at the amounts actually paid by the customer for the service concerned during the 12 months preceding that event."
+        },
+        {
+          "p": "Debass is not liable for indirect losses, loss of expected profits or management errors attributable to the customer."
+        },
+        {
+          "p": "This cap does not apply where the law prohibits limiting liability, in particular in the case of gross or wilful misconduct under the applicable law."
+        }
+      ]
+    },
+    {
+      "title": "16. Force majeure",
+      "blocks": [
+        {
+          "p": "Neither party is liable for a delay or failure directly caused by an event of force majeure that is legally recognised, provided that it informs the other party and reasonably limits the effects."
+        }
+      ]
+    },
+    {
+      "title": "17. Pilot programme",
+      "blocks": [
+        {
+          "p": "A company admitted to the pilot programme accepts its specific agreement on the portal. A free trial never becomes a paid subscription without an express order and acceptance."
+        }
+      ]
+    },
+    {
+      "title": "18. Evidence and electronic acceptance",
+      "blocks": [
+        {
+          "p": "Acceptance takes place exclusively on the NELIAS portal, by a person authorised to bind the company, through an explicit action: unticked boxes and a confirmation button. In the standard journey, no printed document or handwritten signature is required. NELIAS keeps, within the limits of the law, the evidence needed: account identity, company, date and time, versions and fingerprint of the accepted documents, order summary and technical data of the confirmation. Where an advanced electronic signature is legally required, it is built into the digital journey."
+        }
+      ]
+    },
+    {
+      "title": "19. Order of precedence, governing law and disputes",
+      "blocks": [
+        { "p": "In the event of a conflict, the order of precedence is as follows:" },
+        {
+          "ul": [
+            "for commercial characteristics (plan, price, period, options): the accepted order and, where applicable, the special conditions or the quote;",
+            "for the processing of personal data: the DPA;",
+            "for service commitments: the SLA;",
+            "for terms of sale: these Terms of Sale;",
+            "for use of the website and the platform: the Terms of Use."
+          ]
+        },
+        {
+          "p": "The Contract is governed by Ivorian law and the applicable OHADA rules, subject to mandatory provisions. The parties seek an amicable resolution before any proceedings."
+        }
+      ]
+    }
+  ]
+}

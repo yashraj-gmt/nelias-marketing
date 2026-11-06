@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Software should adapt to your business - not the other way around.",
+    "lead": "Traditional software buying often starts with modules and licenses. NELIAS starts with the business itself: what you do, how you operate, and which capabilities matter most."
+  },
+  "challenges": {
+    "title": "Challenges and benefits",
+    "challengeLabel": "Common challenge",
+    "responseLabel": "NELIAS response",
+    "items": [
+      {
+        "challenge": "Disconnected systems",
+        "response": "A unified platform approach for core management workflows."
+      },
+      {
+        "challenge": "Generic software setup",
+        "response": "Industry-aware configuration through the Sector Engine."
+      },
+      {
+        "challenge": "Manual work across departments",
+        "response": "Connected workflows and progressively introduced automation."
+      },
+      {
+        "challenge": "Growth that outpaces tools",
+        "response": "Modular expansion of capabilities and capacity."
+      },
+      {
+        "challenge": "Limited operational visibility",
+        "response": "Shared data foundations and reporting capabilities."
+      }
+    ]
+  },
+  "differentiator": {
+    "statement": "NELIAS does not simply give businesses modules. It helps to understand their needs, compose their environment, and help streamline their processes."
+  }
+}

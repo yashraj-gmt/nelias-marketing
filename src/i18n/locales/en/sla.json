@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "title": "Service Level Agreement",
+    "version": "NELIAS BMP │ Version 2.0 │ 29 October 2026",
+    "publisher": "Publisher: Debass Technologies SARL • https://nelias.app",
+    "intro": "Contractual annex to the SaaS contract and the NELIAS Terms of Sale and Subscription. It applies from the Customer’s acceptance of the Contract.",
+    "notice": "This English version is provided for convenience. In the event of any discrepancy, the French version prevails."
+  },
+  "seo": {
+    "title": "Service Level Agreement | NELIAS BMP",
+    "description": "Service Level Agreement of NELIAS BMP, version 2.0, 29 October 2026."
+  },
+  "page": {
+    "contents": "Contents",
+    "languageLink": "Read this document in French"
+  },
+  "articles": [
+    {
+      "title": "1. Parties, purpose and contractual hierarchy",
+      "blocks": [
+        {
+          "p": "This service level agreement (“SLA”) is entered into between Debass Technologies SARL, publisher of NELIAS BMP (“Debass”), and the customer company identified in the purchase order or order summary (the “Customer”). It describes the scope of availability, support and incident management of the NELIAS SaaS platform. It supplements the Terms of Sale, the ToU and the DPA. In the event of a conflict, the special conditions signed by Debass prevail for the service commitments they expressly identify."
+        },
+        {
+          "p": "Debass’s commitments under this SLA are best-efforts obligations, unless expressly stated otherwise. It is accepted under annex C."
+        }
+      ]
+    },
+    {
+      "title": "2. Scope of the service",
+      "blocks": [
+        {
+          "p": "Covered: access to the production NELIAS BMP environment subscribed, its features included in the purchase order, and standard application support. Not included, unless a special contract provides otherwise: the Customer’s Internet access, third-party hardware and software, specific developments, external integrations, third-party services, training, historical data recovery, on-site services, and test, pilot or beta environments."
+        }
+      ]
+    },
+    {
+      "title": "3. Service levels by plan",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Plan", "Service level", "Application"],
+            "rows": [
+              ["START", "Standard", "Commitments of this SLA."],
+              [
+                "BUSINESS",
+                "Standard+",
+                "Commitments of the Standard level; tickets handled before those of the Standard level."
+              ],
+              [
+                "PROFESSIONAL",
+                "Priority",
+                "Commitments of the Standard level; tickets handled before those of the Standard and Standard+ levels."
+              ],
+              [
+                "ENTERPRISE",
+                "SLA",
+                "Level defined in the quote or in the special conditions accepted."
+              ]
+            ]
+          }
+        },
+        {
+          "p": "The Standard+ and Priority levels determine the order in which tickets are handled; they do not shorten the times in article 9, unless the order expressly provides otherwise."
+        }
+      ]
+    },
+    {
+      "title": "4. Hosting architecture and continuity",
+      "blocks": [
+        {
+          "p": "As at the date of this SLA, primary hosting is provided by the Hodi infrastructure at the Grand-Bassam data centre, Côte d’Ivoire. A disaster recovery plan (DRP) site is located in Johannesburg, South Africa. CRMPUNCH is the technical partner for development, integration and maintenance. Production data and recovery copies are planned on the African continent under the architecture validated by Debass with its partners, which may change under the conditions of the DPA."
+        },
+        {
+          "p": "This description is not a guarantee of automatic failover, continuous availability or restoration time."
+        }
+      ]
+    },
+    {
+      "title": "5. Monthly availability — target",
+      "blocks": [
+        {
+          "p": "Debass aims for monthly availability of 99.5% of the production platform, excluding the exclusions in article 6. This target is a best-efforts objective, not a guarantee. Formula: availability (%) = [(total minutes in the month − eligible downtime minutes) / total minutes in the month] × 100."
+        },
+        {
+          "p": "Eligible downtime is a general interruption of access to essential functions, recorded by Debass’s monitoring tools and confirmed by Debass. Slowdowns, minor anomalies, partial unavailability or unavailability of a third-party function are not treated as global unavailability."
+        }
+      ]
+    },
+    {
+      "title": "6. Exclusions from the calculation",
+      "blocks": [
+        {
+          "p": "The following are excluded from the calculation, to the extent permitted by law: announced scheduled maintenance; force majeure; failures of the Internet, networks and telecommunications operators, power, or of the Customer’s equipment and configurations; configuration or usage errors attributable to the Customer; unavailability of independent third-party services or components beyond Debass’s reasonable control; interruptions linked to an action or request of the Customer; suspensions provided in the Contract; malicious attacks despite reasonable measures; and necessary urgent security measures."
+        },
+        {
+          "p": "These exclusions may not be used to mask a failure that actually falls within Debass’s commitments."
+        }
+      ]
+    },
+    {
+      "title": "7. Scheduled and urgent maintenance",
+      "blocks": [
+        {
+          "p": "The standard maintenance window falls outside the business hours of the customers concerned. Debass notifies interventions likely to significantly affect access at least forty-eight (48) hours in advance. Critical security operations may require immediate intervention; Debass then informs the Customer as soon as reasonably possible. The maintenance schedule is communicated through the official channels."
+        }
+      ]
+    },
+    {
+      "title": "8. Support channels and hours",
+      "blocks": [
+        {
+          "p": "Main channel: contact@nelias.app and, where activated, the support portal or form accessible from https://nelias.app. Standard support: Monday to Friday, 8:00 a.m. to 6:00 p.m., Abidjan time, excluding Ivorian public holidays (the “business hours”). A request received outside business hours is taken into account on the next business day."
+        },
+        {
+          "p": "A 24/7 on-call arrangement for critical production incidents exists only if expressly provided in the quote or in the special conditions of an ENTERPRISE offer. 24/7 support is not acquired without such a provision."
+        }
+      ]
+    },
+    {
+      "title": "9. Incident classification and target times",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Priority", "Definition", "Target handling time"],
+            "rows": [
+              [
+                "P1 — Critical",
+                "Total unavailability of the production service or major security incident affecting several users",
+                "1 hour if on-call contracted; otherwise 4 business hours"
+              ],
+              [
+                "P2 — High",
+                "Essential function unavailable with no reasonable workaround",
+                "4 business hours"
+              ],
+              [
+                "P3 — Medium",
+                "Partial degradation with workaround",
+                "1 business day"
+              ],
+              [
+                "P4 — Low",
+                "Question, non-blocking request or minor anomaly",
+                "2 business days"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "These times refer to the acknowledgement and start of handling, not to a commitment to resolve. Resolution depends on the diagnosis, third parties involved and the Customer’s cooperation. Debass determines the priority; in the event of disagreement, Debass’s classification prevails, subject to a review on reasoned request."
+        }
+      ]
+    },
+    {
+      "title": "10. Incident management and communication",
+      "blocks": [
+        {
+          "p": "The Customer provides the information needed for diagnosis (account identifier, symptoms, timestamp, scope, screenshots with sensitive data redacted). Debass qualifies the incident, coordinates the Hodi and CRMPUNCH contributors if necessary, proposes a workaround where possible and informs the Customer according to criticality. For major incidents, a report may be provided after restoration. Notifications relating to a personal data breach also fall under the DPA and applicable legal obligations."
+        }
+      ]
+    },
+    {
+      "title": "11. Backup, DRP, RPO and RTO",
+      "blocks": [
+        {
+          "p": "Debass organises backups and a disaster recovery arrangement suited to the service, documented and monitored. No recovery point objective (RPO), recovery time objective (RTO), backup frequency or retention is guaranteed, and no absence of data loss is promised, unless set out in a technical annex signed by Debass. The DRP site is located in Johannesburg, South Africa."
+        }
+      ]
+    },
+    {
+      "title": "12. Customer responsibilities",
+      "blocks": [
+        {
+          "p": "The Customer manages its permissions and passwords, protects its devices and networks, reports incidents without undue delay, keeps its contacts’ details up to date and cooperates reasonably in diagnostics. It ensures the lawfulness of data and carries out the additional exports and backups needed for its own obligations."
+        }
+      ]
+    },
+    {
+      "title": "13. Measurement, reporting and review",
+      "blocks": [
+        {
+          "p": "Indicators are calculated on the calendar month, based on monitoring logs and correlated incident tickets; Debass’s data is authoritative, unless proven otherwise. On reasoned written request, Debass provides a statement of availability and significant incidents for the month concerned, within a reasonable time, at the latest fifteen (15) days after the request. Service reviews may be provided for ENTERPRISE offers or specific contracts."
+        }
+      ]
+    },
+    {
+      "title": "14. Service credits and remedies",
+      "blocks": [
+        {
+          "p": "This SLA provides for no automatic refund, penalty or service credit. A credit scale can result only from special conditions signed by Debass for an ENTERPRISE offer; it then specifies the threshold, the cap, the claim procedure within thirty (30) days of the month concerned, and the exclusions."
+        },
+        {
+          "p": "Where such a scale exists, credits are the Customer’s sole and exclusive remedy for the SLA breach concerned, within the liability cap in article 11 of the Terms of Sale, and may not be combined with any other compensation. Absent a scale, the Customer’s sole remedy is correction of the breach by Debass within a reasonable time, subject to mandatory rules."
+        }
+      ]
+    },
+    {
+      "title": "15. Changes, suspension and termination",
+      "blocks": [
+        {
+          "p": "Debass may change the SLA, in particular to reflect improvements to the services or technical developments. Any substantial adverse change to the commitments is notified at least thirty (30) days before taking effect, under the Terms of Sale. Suspensions for security, non-payment or abusive use are governed by the Terms of Sale and the ToU; they do not constitute unavailability. The end of the contract, the return of data and their deletion are dealt with by the Terms of Sale and the DPA."
+        }
+      ]
+    },
+    {
+      "title": "16. Governing law and contacts",
+      "blocks": [
+        {
+          "p": "The SLA is governed by the law defined in the Terms of Sale, subject to mandatory rules, and disputes are resolved under their article 18. Debass Technologies SARL — RCCM CI-ABJ-3-2024-M-16771 — NCC 2401322M — Cocody, Abidjan, Côte d’Ivoire. Email: info@debasstechnologies.com; support: contact@nelias.app; telephone: +225 05 64 05 90 60."
+        }
+      ]
+    },
+    {
+      "title": "Annex A — Service parameters",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Parameter", "Value"],
+            "rows": [
+              [
+                "Target availability",
+                "99.5% per calendar month, best-efforts objective"
+              ],
+              [
+                "Support hours",
+                "Monday to Friday, 8:00 a.m.–6:00 p.m. (Abidjan), excluding Ivorian public holidays"
+              ],
+              [
+                "P1 on-call",
+                "Only if provided in the quote or the ENTERPRISE special conditions"
+              ],
+              [
+                "RPO and RTO",
+                "Not guaranteed, unless set out in a technical annex signed by Debass"
+              ],
+              [
+                "Scheduled maintenance",
+                "Notice at least 48 hours in advance"
+              ],
+              [
+                "Service credits",
+                "None, unless ENTERPRISE special conditions are signed"
+              ],
+              [
+                "Official channels",
+                "contact@nelias.app; support portal or form at https://nelias.app when activated"
+              ],
+              [
+                "Effective date",
+                "Upon the Customer’s acceptance of the Contract"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Annex B — Priority table",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Priority", "Definition", "Target handling time"],
+            "rows": [
+              [
+                "P1",
+                "Global unavailability or major security incident",
+                "1 hour under contracted on-call; otherwise 4 business hours"
+              ],
+              ["P2", "Essential function blocked", "4 business hours"],
+              ["P3", "Non-blocking degradation", "1 business day"],
+              ["P4", "Ordinary request", "2 business days"]
+            ]
+          }
+        },
+        {
+          "p": "Resolution times depend on the diagnosis and are not guaranteed by this table."
+        }
+      ]
+    },
+    {
+      "title": "Annex C — Acceptance",
+      "blocks": [
+        {
+          "p": "Acceptance is given by an explicit action (unticked box and confirmation button) taken by a person authorised to bind the company, or by handwritten or electronic signature of the quote, purchase order or document concerned. It constitutes the Customer’s signature and commitment. Debass keeps, within the limits of the law, the evidence (user account, date and time, version of the accepted documents, IP address, order summary); these records are authoritative unless proven otherwise."
+        },
+        {
+          "table": {
+            "head": ["For Debass Technologies", "For the Customer"],
+            "rows": [
+              [
+                "Name, position: Jules TIEMOKO, legal representative",
+                "Company name and authorised representative:"
+              ],
+              ["Date and signature:", "Date and signature:"]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

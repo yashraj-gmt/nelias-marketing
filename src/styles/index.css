@@ -1,0 +1,348 @@
+@import "tailwindcss";
+
+@theme static {
+  /* Navy: logo wordmark and "N" (sampled #002b52) */
+  --color-navy-950: #001a33;
+  --color-navy-900: #002b52;
+  --color-navy-800: #0b3a66;
+  --color-navy-700: #0a4c85;
+
+  /* Azure: logo blue ribbon (sampled #0a78c8) */
+  --color-azure-50: #f0f7fd;
+  --color-azure-100: #ddeefa;
+  --color-azure-200: #bfe0f7;
+  --color-azure-300: #8cc8f0;
+  --color-azure-400: #4daae6;
+  --color-azure-500: #0a78c8;
+  --color-azure-600: #0a5fa8;
+  --color-azure-700: #084c8a;
+
+  /* Flame: logo orange. The action colour. */
+  --color-flame-50: #fff4ea;
+  --color-flame-100: #ffe5cc;
+  --color-flame-300: #ffb26b;
+  --color-flame-400: #ff920b;
+  --color-flame-500: #fa6f00;
+  --color-flame-600: #d95b00;
+  --color-flame-700: #b04700;
+
+  /* Sun: logo ribbon highlight */
+  --color-sun-200: #ffe58a;
+  --color-sun-300: #ffd543;
+  --color-sun-400: #faab20;
+
+  /* Ink: blue-tinted neutrals */
+  --color-ink-50: #f6f9fc;
+  --color-ink-100: #eaf0f6;
+  --color-ink-200: #d8e1eb;
+  --color-ink-300: #b9c6d4;
+  --color-ink-400: #8a9aad;
+  --color-ink-500: #5e6f84;
+  --color-ink-600: #475569;
+  --color-ink-700: #33415a;
+  --color-ink-800: #1e2b3e;
+  --color-ink-900: #0e1b2c;
+
+  /* Role tokens kept static (identical in both themes) */
+  --color-fg-inverse: #ffffff;
+  --color-fg-inverse-muted: #b9c6d4; /* ink-300 */
+  --color-cta: #fa6f00; /* flame-500 */
+  --color-cta-hover: #ff920b; /* flame-400 */
+  --color-cta-fg: #001a33; /* navy-950: white on orange fails contrast */
+
+  /* Typography */
+  --font-display: "Outfit Variable", "Segoe UI", system-ui, sans-serif;
+  --font-sans: "Outfit Variable", "Segoe UI", system-ui, sans-serif;
+
+  --text-display: clamp(2.5rem, 1.6rem + 3.6vw, 4.25rem);
+  --text-display--line-height: 1.05;
+  --text-display--letter-spacing: -0.025em;
+  --text-h1: clamp(2.125rem, 1.5rem + 2.6vw, 3.25rem);
+  --text-h1--line-height: 1.1;
+  --text-h1--letter-spacing: -0.02em;
+  --text-h2: clamp(1.75rem, 1.35rem + 1.7vw, 2.5rem);
+  --text-h2--line-height: 1.15;
+  --text-h2--letter-spacing: -0.015em;
+  --text-h3: clamp(1.25rem, 1.1rem + 0.7vw, 1.625rem);
+  --text-h3--line-height: 1.25;
+  --text-lead: clamp(1.0625rem, 1rem + 0.35vw, 1.25rem);
+  --text-lead--line-height: 1.55;
+
+  /* Breakpoints (added to Tailwind defaults sm 640, md 768, lg 1024, xl 1280, 2xl 1536) */
+  --breakpoint-xs: 30rem;
+  --breakpoint-3xl: 120rem;
+
+  /* Radius scale: use by hierarchy, never one radius for everything */
+  --radius-sm: 0.375rem; /* inputs, chips */
+  --radius-md: 0.625rem; /* buttons */
+  --radius-lg: 1rem; /* cards */
+  --radius-xl: 1.5rem; /* large feature panels */
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --animate-drawer-in: drawer-in 240ms var(--ease-soft);
+  --animate-modal-in: modal-in 200ms var(--ease-soft);
+  --animate-ribbon-draw: ribbon-draw 1100ms var(--ease-soft) both;
+  --animate-tile-in: tile-in 520ms var(--ease-soft) both;
+}
+
+/* Dark variant follows the data-theme attribute, not the OS media query */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* Semantic tokens. LIGHT values equal the previous literal colours. */
+:root {
+  color-scheme: light;
+  --surface: #ffffff;
+  --surface-raised: #ffffff;
+  --surface-muted: #f6f9fc;
+  --surface-tint: #f0f7fd;
+  --surface-sunken: #eaf0f6;
+  --surface-inverse: #002b52;
+  --surface-inverse-deep: #001a33;
+  --fg: #0e1b2c;
+  --fg-strong: #33415a;
+  --fg-muted: #475569;
+  --fg-subtle: #5e6f84;
+  --heading: #002b52;
+  --line: #d8e1eb;
+  --line-strong: #b9c6d4;
+  --field: #5e6f84;
+  --link: #0a5fa8;
+  --accent: #0a78c8;
+  --accent-soft: #ddeefa;
+  --accent-line: #bfe0f7;
+  --accent-strong: #084c8a;
+  --focus: #0a78c8;
+  --selected: #002b52;
+  --selected-fg: #ffffff;
+  --secondary: #002b52;
+  --secondary-hover: #0b3a66;
+  --secondary-fg: #ffffff;
+  --success: #15803d;
+  --success-soft: #e3f4e8;
+  --success-strong: #116530;
+  --warning: #b45309;
+  --warning-soft: #fef1d6;
+  --warning-strong: #8a4a06;
+  --danger: #b91c1c;
+  --danger-soft: #fde8e8;
+  --danger-strong: #a31616;
+  --highlight-soft: #ffe5cc;
+  --highlight-strong: #b04700;
+  --deep-from: #001a33;
+  --deep-via: #002b52;
+  --deep-to: #0a4c85;
+  --elev-card: 0 1px 2px rgb(0 43 82 / 0.06), 0 4px 16px rgb(0 43 82 / 0.06);
+  --elev-raised: 0 2px 4px rgb(0 43 82 / 0.08), 0 12px 32px rgb(0 43 82 / 0.12);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #04172b;
+  --surface-raised: #0b2a49;
+  --surface-muted: #071f38;
+  --surface-tint: #082540;
+  --surface-sunken: #123656;
+  --surface-inverse: #0a2f55;
+  --surface-inverse-deep: #020f1f;
+  --fg: #e4ecf5;
+  --fg-strong: #cdd9e6;
+  --fg-muted: #b4c4d6;
+  --fg-subtle: #92a6bc;
+  --heading: #f4f8fc;
+  --line: #1b3a5a;
+  --line-strong: #2f5679;
+  --field: #8199b2;
+  --link: #6cb8ef;
+  --accent: #4daae6;
+  --accent-soft: #0f3d69;
+  --accent-line: #1e5a94;
+  --accent-strong: #9dd0f5;
+  --focus: #8cc8f0;
+  --selected: #0a78c8;
+  --selected-fg: #ffffff;
+  --secondary: #e6f0fa;
+  --secondary-hover: #ffffff;
+  --secondary-fg: #002b52;
+  --success: #5fd08a;
+  --success-soft: #0f2d22;
+  --success-strong: #8be3ac;
+  --warning: #f2b04a;
+  --warning-soft: #33260f;
+  --warning-strong: #ffd38c;
+  --danger: #ff8f8f;
+  --danger-soft: #3a1519;
+  --danger-strong: #ffb8b8;
+  --highlight-soft: #3a2410;
+  --highlight-strong: #ffb877;
+  --deep-from: #020f1f;
+  --deep-via: #052341;
+  --deep-to: #0a4c85;
+  --elev-card: 0 1px 2px rgb(0 0 0 / 0.45), 0 4px 16px rgb(0 0 0 / 0.35);
+  --elev-raised: 0 2px 4px rgb(0 0 0 / 0.5), 0 12px 32px rgb(0 0 0 / 0.45);
+}
+
+/* Expose the semantic tokens as Tailwind colours and shadows */
+@theme inline {
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-surface-muted: var(--surface-muted);
+  --color-surface-tint: var(--surface-tint);
+  --color-surface-sunken: var(--surface-sunken);
+  --color-surface-inverse: var(--surface-inverse);
+  --color-surface-inverse-deep: var(--surface-inverse-deep);
+  --color-fg: var(--fg);
+  --color-fg-strong: var(--fg-strong);
+  --color-fg-muted: var(--fg-muted);
+  --color-fg-subtle: var(--fg-subtle);
+  --color-heading: var(--heading);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-field: var(--field);
+  --color-link: var(--link);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-line: var(--accent-line);
+  --color-accent-strong: var(--accent-strong);
+  --color-focus: var(--focus);
+  --color-selected: var(--selected);
+  --color-selected-fg: var(--selected-fg);
+  --color-secondary: var(--secondary);
+  --color-secondary-hover: var(--secondary-hover);
+  --color-secondary-fg: var(--secondary-fg);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-success-strong: var(--success-strong);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-warning-strong: var(--warning-strong);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-danger-strong: var(--danger-strong);
+  --color-highlight-soft: var(--highlight-soft);
+  --color-highlight-strong: var(--highlight-strong);
+  --shadow-card: var(--elev-card);
+  --shadow-raised: var(--elev-raised);
+}
+
+@keyframes ribbon-draw {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes tile-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes drawer-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* The one bold device: the logo ribbon */
+@utility bg-brand-ribbon {
+  background-image: linear-gradient(
+    120deg,
+    var(--color-flame-500) 0%,
+    var(--color-flame-400) 45%,
+    var(--color-sun-300) 100%
+  );
+}
+@utility bg-brand-deep {
+  background-image: linear-gradient(
+    160deg,
+    var(--deep-from) 0%,
+    var(--deep-via) 55%,
+    var(--deep-to) 100%
+  );
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+    -webkit-text-size-adjust: 100%;
+  }
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
+  body {
+    @apply bg-surface font-sans text-fg antialiased;
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    overflow-wrap: break-word;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+  p,
+  li {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 3px;
+  }
+  [data-tone="inverse"] :focus-visible {
+    outline-color: var(--color-sun-300);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      animation-delay: 0s !important;
+      transition-delay: 0s !important;
+    }
+  }
+}

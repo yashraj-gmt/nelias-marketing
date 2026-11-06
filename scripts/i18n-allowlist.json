@@ -1,0 +1,54 @@
+{
+  "keys": [
+    "common.brand.name",
+    "common.lang.en",
+    "common.lang.fr",
+    "common.lang.enShort",
+    "common.lang.frShort",
+    "common.header.menu",
+    "common.nav.contact",
+    "common.footer.contactHeading",
+    "common.footer.whatsapp",
+    "home.composition.address",
+    "home.capabilities.items.finance.title"
+  ],
+  "values": [
+    "NELIAS",
+    "Debass Technologies",
+    "START",
+    "BUSINESS",
+    "PROFESSIONAL",
+    "ENTERPRISE",
+    "Sector Engine",
+    "FCFA",
+    "WhatsApp",
+    "yourcompany.nelias.app",
+    "abcdistribution.nelias.app",
+    "ABC Distribution",
+    "EN",
+    "FR",
+    "Menu",
+    "Contact",
+    "Finance",
+    "Hodi",
+    "CRMPUNCH",
+    "Description",
+    "Standard",
+    "Standard+",
+    "SLA",
+    "Application"
+  ],
+  "enOnly": [
+    "terms.meta.notice",
+    "cgv.meta.notice",
+    "dpa.meta.notice",
+    "privacy.meta.notice",
+    "sla.meta.notice"
+  ],
+  "pendingFrench": [
+    "dpa",
+    "privacy",
+    "sla",
+    "terms"
+  ]
+}

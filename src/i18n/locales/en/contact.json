@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "title": "Let’s talk about your business.",
+    "lead": "Tell us what you do, which tools you use today and what you would like to improve. Our team can help you identify the capabilities and configuration that fit your business."
+  },
+  "demo": { "title": "Book a Demo" },
+  "seo": {
+    "contactTitle": "Contact | NELIAS BMP",
+    "demoTitle": "Book a Demo | NELIAS BMP",
+    "description": "Tell us what you do, which tools you use today and what you would like to improve."
+  },
+  "details": {
+    "title": "Contact details",
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "address": "Location"
+  },
+  "hours": {
+    "title": "Business hours",
+    "schedule": "Monday – Friday: 8:00 AM – 6:00 PM (GMT)",
+    "response": "Typical response time: within 24 business hours"
+  },
+  "map": {
+    "title": "Our headquarters in Abidjan",
+    "lead": "Visit our team in Abidjan, Côte d'Ivoire or get in touch for on-site and remote consultations.",
+    "city": "Abidjan, Côte d'Ivoire"
+  },
+  "demoSidebar": {
+    "title": "What to expect from your demo",
+    "lead": "A tailored session with a NELIAS product specialist.",
+    "items": [
+      {
+        "title": "Personalized walkthrough",
+        "desc": "A 30-minute live exploration focused on your workflows and operational goals."
+      },
+      {
+        "title": "Sector-specific configuration",
+        "desc": "See how NELIAS adapts to your industry with pre-configured processes."
+      },
+      {
+        "title": "Key platform capabilities",
+        "desc": "Review multi-entity management, invoicing, inventory, and reporting."
+      },
+      {
+        "title": "Q&A with specialists",
+        "desc": "Get direct answers on implementation, integration, data migration, and pricing."
+      }
+    ],
+    "altContactTitle": "Need general assistance?",
+    "altContactDesc": "If you have a general inquiry or support question, feel free to contact us.",
+    "altContactLink": "Contact our team"
+  },
+  "form": {
+    "srTitle": { "contact": "Contact form", "demo": "Demo request form" },
+    "requiredNote": "Required fields are marked with an asterisk (*).",
+    "fullName": "Full name",
+    "workEmail": "Work email",
+    "company": "Company",
+    "country": "Country",
+    "industry": "Industry",
+    "companySize": "Company size",
+    "companySizeHint": "Number of employees",
+    "businessNeeds": "Business needs",
+    "businessNeedsHint": "Select the capability areas you are interested in.",
+    "message": "Message",
+    "counter": "{{count}} of {{max}} characters",
+    "other": "Other",
+    "consent": "I agree to be contacted about my request."
+  },
+  "sizes": {
+    "s1": "1–10 employees",
+    "s2": "11–50 employees",
+    "s3": "51–200 employees",
+    "s4": "201–500 employees",
+    "s5": "More than 500 employees"
+  },
+  "errors": {
+    "summaryTitle": "Please correct the following",
+    "fullName": "Please enter your full name.",
+    "emailRequired": "Please enter your work email.",
+    "emailInvalid": "Please enter a valid email address.",
+    "company": "Please enter your company name.",
+    "consent": "Please confirm your consent to continue.",
+    "submitFailed": "We could not send your request. Please try again, or contact us directly.",
+    "mailtoTooLong": "Your message is too long to send by email. Please shorten it or write to us directly."
+  },
+  "feedback": {
+    "successTitle": "Thank you",
+    "success": {
+      "contact": "We have received your message.",
+      "demo": "We have received your demo request."
+    },
+    "mailtoTitle": "Your email is ready",
+    "mailtoBody": "Your email app should open with your message ready to send. If it does not, write to us at {{email}}.",
+    "writeTo": "Write to {{email}}"
+  },
+  "mail": {
+    "subject": { "contact": "[NELIAS] Contact request", "demo": "[NELIAS] Demo request" },
+    "language": "Language"
+  }
+}

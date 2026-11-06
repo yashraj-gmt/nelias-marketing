@@ -1,0 +1,103 @@
+{
+  "seo": {
+    "title": "Frequently asked questions | NELIAS BMP"
+  },
+  "page": {
+    "title": "Frequently asked questions",
+    "jumpLabel": "Questions by topic",
+    "nextStep": "Next step"
+  },
+  "groups": {
+    "pricing": "Pricing and plans",
+    "modules": "Modules and sectors",
+    "hosting": "Hosting and data",
+    "migration": "Migration and existing systems",
+    "general": "General questions"
+  },
+  "closing": {
+    "title": "Tell us what your business does.",
+    "body": "An advisor will reply and validate the configuration with you before any order."
+  },
+  "items": {
+    "whatIsNelias": {
+      "q": "What is NELIAS?",
+      "a": "NELIAS is a Business Management Platform designed to bring business management capabilities together and configure them around an organization’s profile."
+    },
+    "isErp": {
+      "q": "Is NELIAS an ERP?",
+      "a": "NELIAS includes ERP-type capabilities, but its positioning is broader: a platform approach built around business profiles, sector-aware configuration and connected workflows."
+    },
+    "sectorEngine": {
+      "q": "What is the Sector Engine?",
+      "a": "The Sector Engine is the rules-based component designed to recommend a relevant configuration from your business profile and needs."
+    },
+    "addLater": {
+      "q": "Can I add capabilities later?",
+      "a": "The platform helps to support evolving plans, capacities and optional capabilities, subject to catalogue availability."
+    },
+    "multipleOffices": {
+      "q": "Do I pay more for multiple offices?",
+      "a": "Physical location alone is not a pricing factor. Additional operational capabilities, legal entities or services may affect the price."
+    },
+    "hosting": {
+      "q": "Where will my data be hosted?",
+      "a": "Hosting options depend on the subscription and technical requirements. NELIAS is being planned with African hosting options, including Côte d’Ivoire, subject to contractual confirmation."
+    },
+    "connect": {
+      "q": "Can I connect NELIAS to other tools?",
+      "a": "Approved connectors and APIs are planned, with availability and fees varying by integration."
+    },
+    "getStarted": {
+      "q": "How do I get started with NELIAS?",
+      "a": "Select “Configure My NELIAS” to describe your business, review a recommended configuration, and proceed through the currently available options."
+    },
+    "tryNelias": {
+      "q": "Can I try NELIAS?",
+      "a": "demo access and trial offers depend on currently available services. Contact the team to register your interest."
+    },
+    "moreThanOneCompany": {
+      "q": "Can I use NELIAS for more than one company?",
+      "a": "Multi-entity capabilities depend on the plan and any additional legal-entity subscriptions."
+    },
+    "offices": {
+      "q": "Does the price depend on the number of offices or stores?",
+      "a": "No. Your users can connect from head office, a branch, their home or while travelling at no site charge. NELIAS charges for capacity, functional value and consumption."
+    },
+    "includes": {
+      "q": "What does the subscription include?",
+      "a": "The platform, the Sector Engine, a number of standard modules ({{start}}, {{business}} or {{professional}} depending on the plan), users, storage and the service level of the plan."
+    },
+    "moreModules": {
+      "q": "Can I use more modules than my plan includes?",
+      "a": "Yes. Each additional standard module costs {{amount}} excl. VAT per month."
+    },
+    "modify": {
+      "q": "Can we modify the recommended modules?",
+      "a": "Yes. The Sector Engine recommends a selection that you can add to, remove from or replace among the compatible modules."
+    },
+    "packsDate": {
+      "q": "When will the Industry+ packs be available?",
+      "a": "The schedule has not yet been set. The five packs are planned and are not yet sold. You can ask to be notified when they become available."
+    },
+    "twoMonths": {
+      "q": "What does the annual “2 months free” mean?",
+      "a": "By paying the base subscription for the year, you pay 10 months for 12 months of service."
+    },
+    "hosted": {
+      "q": "Is my data hosted in Côte d’Ivoire?",
+      "a": "Hosting in Côte d’Ivoire is possible with the Sovereign offer, on quote. The Shared mode is included in the START, BUSINESS and PROFESSIONAL plans."
+    },
+    "migrate": {
+      "q": "Can you migrate our existing data?",
+      "a": "Yes, as part of a migration service quoted according to your project."
+    },
+    "legacy": {
+      "q": "Can we replace a legacy or custom system?",
+      "a": "This is possible within an ENTERPRISE offer on quote, with a progressive migration and, where needed, custom development quoted separately."
+    },
+    "currency": {
+      "q": "In which currency are prices shown?",
+      "a": "In FCFA. Display in the currency of your country is planned for a later stage."
+    }
+  }
+}

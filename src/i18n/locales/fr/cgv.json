@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "title": "Conditions générales de vente et d'abonnement",
+    "version": "NELIAS BMP | Version 1.1 - Publication portail | 13 octobre 2026",
+    "publisher": "Éditeur : Debass Technologies SARL • https://nelias.app"
+  },
+  "seo": {
+    "title": "Conditions générales de vente et d'abonnement | NELIAS BMP",
+    "description": "Conditions générales de vente et d'abonnement de NELIAS BMP, version 1.1, publication portail, 13 octobre 2026."
+  },
+  "page": {
+    "contents": "Sommaire",
+    "languageLink": "Lire ce document en anglais"
+  },
+  "articles": [
+    {
+      "title": "1. Parties, champ et définitions",
+      "blocks": [
+        {
+          "p": "Les présentes conditions sont proposées par Debass Technologies SARL, société à responsabilité limitée au capital de 5 000 000 FCFA, immatriculée au RCCM sous le numéro CI-ABJ-3-2024-M-16771, numéro de compte contribuable (NCC) 2401322M, dont le siège est situé à Cocody, Abidjan (Côte d'Ivoire), représentée par son représentant légal, Jules TIEMOKO (« Debass »). Courriel : info@debasstechnologies.com - Téléphone : +225 05 64 05 90 60 - Plateforme : https://nelias.app."
+        },
+        {
+          "p": "Elles régissent les abonnements professionnels à NELIAS BMP, les options et les prestations associées souscrits par une entreprise (le « client »)."
+        },
+        {
+          "p": "Le « Contrat » comprend : la commande acceptée sur le portail (le récapitulatif), les présentes CGV, les Conditions générales d'utilisation (CGU), l'Accord de traitement des données personnelles (DPA), l'Accord de niveau de service (SLA) et, le cas échéant, les conditions particulières, le devis ou la convention pilote acceptés."
+        }
+      ]
+    },
+    {
+      "title": "2. Souscription en ligne et formation du Contrat",
+      "blocks": [
+        {
+          "p": "Le client choisit son offre et ses options, vérifie le prix total, accepte les documents contractuels applicables et confirme sa commande sur le portail. Aucun devis papier signé n'est requis dans le parcours standard."
+        },
+        {
+          "p": "Le Contrat est formé lorsque NELIAS confirme électroniquement la commande, sous réserve des contrôles légitimes. L'activation du service est subordonnée au paiement exigible (article 6 et article 10)."
+        }
+      ]
+    },
+    {
+      "title": "3. Offres, capacités et modules",
+      "blocks": [
+        {
+          "p": "NELIAS BMP est proposé en quatre offres : START, BUSINESS, PROFESSIONAL et ENTERPRISE. Chaque offre définit une capacité (utilisateurs, entités juridiques, stockage) et un niveau de service. Les modules activés résultent du profil métier du client."
+        },
+        {
+          "p": "Le récapitulatif de commande indique, pour la période souscrite : l'offre, les utilisateurs, les entités, le stockage, les modules, les connecteurs et options, les prix et la périodicité. Les fonctions non encore disponibles ne sont pas réputées incluses."
+        },
+        {
+          "p": "La localisation des utilisateurs ou des implantations du client n'est pas un critère de prix."
+        }
+      ]
+    },
+    {
+      "title": "4. Offres sur devis",
+      "blocks": [
+        {
+          "p": "L'offre ENTERPRISE, les hébergements Dedicated, Sovereign, Hybrid ou On-Premise et les configurations qui sortent des règles standard font l'objet d'un devis établi après étude. Le devis est accepté électroniquement sur le portail ou selon les conditions particulières qu'il précise. Les présentes CGV s'y appliquent sauf stipulation contraire."
+        }
+      ]
+    },
+    {
+      "title": "5. Prix et taxes",
+      "blocks": [
+        {
+          "p": "Les prix applicables sont ceux affichés et expressément validés par le client au moment de la commande. Ils sont exprimés en FCFA, hors taxes sauf indication contraire."
+        },
+        {
+          "p": "Pour l'abonnement annuel, dix mensualités sont facturées pour douze mois de service."
+        },
+        {
+          "p": "Les taxes, options, consommations variables, frais d'intégration et services de tiers sont présentés au client avant leur facturation. Les prix publics peuvent évoluer pour les périodes futures, avec un préavis d'au moins 30 jours."
+        }
+      ]
+    },
+    {
+      "title": "6. Paiement",
+      "blocks": [
+        {
+          "p": "Les abonnements sont payables d'avance selon la périodicité choisie. Le portail indique les moyens de paiement effectivement disponibles."
+        },
+        {
+          "p": "Debass peut refuser l'activation tant que le paiement initial n'est pas confirmé. Aucun prélèvement automatique n'est effectué sans autorisation valable du client."
+        }
+      ]
+    },
+    {
+      "title": "7. Durée et renouvellement",
+      "blocks": [
+        {
+          "p": "La durée du Contrat correspond à la période sélectionnée (mensuelle ou annuelle). La reconduction automatique ne s'applique que si elle a été clairement présentée et acceptée lors de la commande. Le client consulte et gère son renouvellement dans son espace client."
+        },
+        {
+          "p": "Un tarif modifié ne s'applique qu'à la période future, après l'information prévue à l'article 5."
+        }
+      ]
+    },
+    {
+      "title": "8. Changement d'offre",
+      "blocks": [
+        {
+          "p": "Les changements d'offre, d'utilisateurs, de stockage, de modules ou d'options se demandent depuis le portail. L'effet sur le prix et la date d'entrée en vigueur sont affichés avant confirmation."
+        },
+        {
+          "p": "Une réduction de capacité ou d'offre peut prendre effet à l'échéance de la période déjà payée. Elle ne supprime pas silencieusement des données : le client est informé des conséquences avant de confirmer."
+        }
+      ]
+    },
+    {
+      "title": "9. Retard de paiement et suspension",
+      "blocks": [
+        {
+          "p": "En cas de facture échue, Debass notifie le client. À défaut de régularisation, Debass peut limiter certaines fonctionnalités, puis suspendre le service à l'issue du délai de régularisation indiqué dans la notification, sauf urgence ou fraude."
+        },
+        {
+          "p": "Les sommes dues restent exigibles. Les droits que la loi reconnaît impérativement au client sont préservés."
+        }
+      ]
+    },
+    {
+      "title": "10. Activation et obligations du client",
+      "blocks": [
+        {
+          "p": "L'activation automatisée dépend du paiement, de la validation des informations fournies, des capacités disponibles et, le cas échéant, de prérequis techniques."
+        },
+        {
+          "p": "Le client gère ses utilisateurs, protège ses accès et garantit qu'il dispose des droits nécessaires sur les données qu'il charge."
+        }
+      ]
+    },
+    {
+      "title": "11. Services de tiers et prestations",
+      "blocks": [
+        {
+          "p": "Les intégrations, migrations, formations, développements spécifiques, services de paiement et autres services de tiers ne sont inclus que s'ils figurent dans la commande. Leur coût et leur délai sont acceptés séparément sur le portail."
+        }
+      ]
+    },
+    {
+      "title": "12. Support et disponibilité",
+      "blocks": [
+        {
+          "p": "Le SLA décrit les objectifs de disponibilité et les conditions de support. Un incident provenant de l'accès Internet du client, de ses équipements ou d'un service de tiers indépendant ne constitue pas, en soi, une défaillance de NELIAS."
+        }
+      ]
+    },
+    {
+      "title": "13. Propriété et données",
+      "blocks": [
+        {
+          "p": "Le client reste titulaire de ses données. Debass conserve ses droits sur NELIAS et ses éléments propres, sous réserve des licences des composants de tiers. Le DPA encadre les données personnelles traitées pour le compte du client."
+        }
+      ]
+    },
+    {
+      "title": "14. Résiliation et restitution des données",
+      "blocks": [
+        {
+          "p": "Le client demande la non-reconduction ou la résiliation depuis son espace client, selon la période souscrite. Sauf règle impérative ou manquement grave imputable à Debass, les périodes commencées et les prestations déjà exécutées ne sont pas remboursées."
+        },
+        {
+          "p": "Le client dispose de 30 jours après la fin du Contrat pour demander l'export standard de ses données. Passé ce délai, les données sont supprimées ou anonymisées, sous réserve des obligations légales de conservation ; les sauvegardes expirent selon leur cycle normal."
+        }
+      ]
+    },
+    {
+      "title": "15. Responsabilité",
+      "blocks": [
+        {
+          "p": "Dans les limites autorisées par la loi, la responsabilité contractuelle cumulée de Debass pour un même événement est plafonnée aux sommes effectivement payées par le client pour le service concerné au cours des 12 mois précédant cet événement."
+        },
+        {
+          "p": "Debass n'est pas responsable des pertes indirectes, de la perte de bénéfices espérés ni des erreurs de gestion imputables au client."
+        },
+        {
+          "p": "Ce plafond ne s'applique pas lorsque la loi interdit de limiter la responsabilité, notamment en cas de faute lourde ou intentionnelle selon le droit applicable."
+        }
+      ]
+    },
+    {
+      "title": "16. Force majeure",
+      "blocks": [
+        {
+          "p": "Aucune partie n'est responsable d'un retard ou d'une inexécution directement causés par un événement de force majeure légalement reconnu, à condition d'en informer l'autre partie et d'en limiter raisonnablement les effets."
+        }
+      ]
+    },
+    {
+      "title": "17. Programme pilote",
+      "blocks": [
+        {
+          "p": "Une entreprise admise au programme pilote accepte sa convention spécifique sur le portail. Un essai gratuit ne devient jamais un abonnement payant sans commande et acceptation expresses."
+        }
+      ]
+    },
+    {
+      "title": "18. Preuve et acceptation électronique",
+      "blocks": [
+        {
+          "p": "L'acceptation s'effectue exclusivement sur le portail NELIAS, par une personne habilitée à engager l'entreprise, au moyen d'une action explicite : cases non précochées et bouton de confirmation. Dans le parcours standard, aucun document imprimé ni signature manuscrite n'est requis. NELIAS conserve, dans les limites de la loi, les éléments nécessaires à la preuve : identité du compte, entreprise, date et heure, versions et empreinte des documents acceptés, récapitulatif de la commande et données techniques de la confirmation. Lorsqu'une signature électronique renforcée est légalement requise, elle est intégrée au parcours numérique."
+        }
+      ]
+    },
+    {
+      "title": "19. Ordre des documents, droit applicable et litiges",
+      "blocks": [
+        { "p": "En cas de contradiction, l'ordre de priorité est le suivant :" },
+        {
+          "ul": [
+            "pour les caractéristiques commerciales (offre, prix, période, options) : la commande acceptée et, le cas échéant, les conditions particulières ou le devis ;",
+            "pour le traitement des données personnelles : le DPA ;",
+            "pour les engagements de service : le SLA ;",
+            "pour les conditions de vente : les présentes CGV ;",
+            "pour l'utilisation du site et de la plateforme : les CGU."
+          ]
+        },
+        {
+          "p": "Le Contrat est soumis au droit ivoirien et aux règles de l'OHADA applicables, sous réserve des dispositions impératives. Les parties recherchent une résolution amiable avant toute procédure."
+        }
+      ]
+    }
+  ]
+}

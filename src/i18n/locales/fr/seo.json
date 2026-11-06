@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "NELIAS | Plateforme de gestion d’entreprise",
+    "description": "Découvrez NELIAS, une plateforme de gestion d’entreprise conçue pour s’adapter à vos activités et à votre secteur."
+  },
+  "industries": {
+    "title": "Secteurs | NELIAS BMP",
+    "description": "Découvrez les configurations de gestion adaptées aux spécificités de chaque secteur d’activité."
+  },
+  "features": {
+    "title": "Fonctionnalités | NELIAS BMP",
+    "description": "Découvrez les fonctionnalités de gestion, les flux opérationnels, le reporting et les intégrations."
+  },
+  "pricing": {
+    "title": "Tarifs NELIAS | Formules et options",
+    "description": "Consultez la structure des formules proposées et découvrez comment les capacités et les options déterminent les tarifs."
+  },
+  "about": {
+    "title": "À propos de NELIAS | Par Debass Technologies",
+    "description": "Découvrez la vision de NELIAS et son approche de gestion centrée sur l’entreprise."
+  },
+  "social": {
+    "title": "NELIAS - Votre entreprise est unique. Votre plateforme de gestion devrait l’être aussi.",
+    "description": "Une seule plateforme. Plusieurs secteurs. Votre environnement, configuré automatiquement."
+  },
+  "notFound": {
+    "title": "Page introuvable | NELIAS",
+    "description": "La page que vous recherchez n’existe pas."
+  },
+  "fallback": {
+    "title": "NELIAS",
+    "description": "Une seule plateforme. Plusieurs secteurs. Votre environnement, configuré automatiquement."
+  }
+}

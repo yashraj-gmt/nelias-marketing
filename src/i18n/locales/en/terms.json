@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "title": "Terms of Use",
+    "version": "NELIAS BMP │ Version 5.0 │ 29 October 2026",
+    "publisher": "Publisher: Debass Technologies SARL • https://nelias.app",
+    "intro": "These terms take effect upon their publication at https://nelias.app. They apply to anyone who accesses the Services.",
+    "notice": "This English version is provided for convenience. In the event of any discrepancy, the French version prevails."
+  },
+  "seo": {
+    "title": "Terms of Use | NELIAS BMP",
+    "description": "Terms of Use of NELIAS BMP, version 5.0, 29 October 2026."
+  },
+  "page": {
+    "contents": "Contents",
+    "languageLink": "Read this document in French"
+  },
+  "articles": [
+    {
+      "title": "1. Purpose, scope and acceptance",
+      "blocks": [
+        {
+          "p": "These Terms of Use (“ToU”) govern access to and use of the nelias.app website, its forms, the configurator, the portal and, where activated, the NELIAS BMP accounts and workspaces (the “Services”). NELIAS is a business management platform published by Debass."
+        },
+        {
+          "p": "Accessing or using the Services, or submitting a form or an order, constitutes acceptance of the ToU. A person who does not accept the ToU must refrain from using the Services."
+        },
+        {
+          "p": "Paid offers, subscriptions, service levels and professional services are governed by the Terms of Sale and Subscription (“Terms of Sale”), the quote or purchase order accepted, the Service Level Agreement (“SLA”) and the Data Processing Agreement (“DPA”). In the event of a conflict, those documents prevail over the ToU for their subject matter, in the order of priority set out in the Terms of Sale."
+        },
+        {
+          "p": "The ToU, like the Terms of Sale, do not yield to the Customer’s purchasing conditions, policies or charters, which are expressly excluded."
+        }
+      ]
+    },
+    {
+      "title": "2. Publisher identification and hosting",
+      "blocks": [
+        {
+          "p": "The website and the platform are published by Debass Technologies, a limited liability company (SARL) with a share capital of 5,000,000 FCFA, registered in the Trade and Personal Property Credit Register (RCCM) under number CI-ABJ-3-2024-M-16771, taxpayer account number (NCC) 2401322M, with its registered office in Cocody, Abidjan (Côte d’Ivoire), represented by its legal representative, Jules TIEMOKO (“Debass”). Telephone: +225 05 64 05 90 60; email: info@debasstechnologies.com; website: https://www.debasstechnologies.com; NELIAS BMP platform: https://nelias.app. Publication director: Jules TIEMOKO."
+        },
+        {
+          "p": "The platform is hosted with Hodi, in Côte d’Ivoire, as described in article 13."
+        }
+      ]
+    },
+    {
+      "title": "3. Users and capacity",
+      "blocks": [
+        {
+          "p": "The Services are intended exclusively for companies and professionals acting in the course of their business. They are not intended for consumers."
+        },
+        {
+          "p": "A person acting on behalf of an organisation represents and warrants that they are authorised to submit a request or accept a contract in its name. Users provide accurate, complete and up-to-date information and update it where necessary. Debass may refuse or suspend access where this information is inaccurate."
+        }
+      ]
+    },
+    {
+      "title": "4. Forms, configurator and simulations",
+      "blocks": [
+        {
+          "p": "The configurator allows users to enter their sector, needs, organisation size and desired features. Its results, price simulations and recommendations are indicative and do not bind Debass. They become contractual only in the order summary or quote validated under the Terms of Sale."
+        },
+        {
+          "p": "Submitting a form or a demonstration request is neither an order, nor a firm offer by Debass, nor a guarantee of admission to a pilot programme. Debass may ask for details to qualify a request, may refuse it for a legitimate reason, and may propose a demonstration or a suitable offer."
+        }
+      ]
+    },
+    {
+      "title": "5. Accounts and security",
+      "blocks": [
+        {
+          "p": "Where an account is available, the user and the Customer are responsible for the confidentiality of their credentials, for the rights granted to their staff and for all operations carried out under their account, which are deemed to be carried out by them, except in the case of proven fault by Debass. Credentials are personal and may not be shared or transferred."
+        },
+        {
+          "p": "The Customer reports any suspicious access or loss of credentials without delay to contact@nelias.app. Debass may impose security measures (multi-factor authentication, credential renewal) and block a compromised account."
+        }
+      ]
+    },
+    {
+      "title": "6. Permitted and prohibited uses",
+      "blocks": [
+        {
+          "p": "Users undertake to use the Services in accordance with the law, the ToU, the Contract and the rights of third parties. The following are prohibited in particular:"
+        },
+        {
+          "ul": [
+            "unauthorised access, intrusion, or circumvention of security measures, technical limits or the quotas of the plan subscribed;",
+            "disrupting, overloading or degrading the Services, including by load or penetration testing not authorised in writing by Debass;",
+            "mass or automated extraction of data or content (scraping), reverse engineering, decompilation and copying of the Services, except to the extent that the law mandatorily permits it;",
+            "resale, sub-licensing, making the Services available to third parties or operating them as a service bureau, without Debass’s written authorisation;",
+            "transmitting malware, unsolicited messages or unlawful content;",
+            "identity theft, providing false information, or breaching the confidentiality or rights of others;",
+            "using the Services to develop a competing product or to publish comparative analyses without written authorisation."
+          ]
+        },
+        {
+          "p": "Any breach may result in suspension or termination of access under article 12, without prejudice to any action for damages."
+        }
+      ]
+    },
+    {
+      "title": "7. Data and Customer responsibilities",
+      "blocks": [
+        {
+          "p": "The Customer remains solely responsible for the lawfulness, accuracy and quality of, and the rights of access to and use of, the data and content it imports, enters or generates in the Services (“Customer Data”). It warrants that it holds the necessary rights and authorisations, in particular with regard to data subjects, and that such data does not infringe any third-party right."
+        },
+        {
+          "p": "Debass exercises no editorial control over Customer Data and has no duty to monitor it. Debass may nonetheless remove or disable access to manifestly unlawful content of which it becomes aware or which is reported to it, or act on a request from a competent authority."
+        },
+        {
+          "p": "Where Debass processes personal data on behalf of the Customer in its NELIAS environment, the DPA applies. The Customer ensures it holds the necessary authorisations for sensitive or regulated data (in particular health, insurance, human resources or financial data). Using NELIAS for such data requires Debass’s prior written validation, in light of the applicable requirements."
+        },
+        {
+          "p": "The Customer remains responsible for its own exports and additional backups required by its legal, accounting and tax obligations. Backups carried out by Debass are intended for service continuity and do not constitute an archiving service on the Customer’s behalf."
+        },
+        {
+          "p": "Debass may collect and use technical and usage data (logs, performance metrics, volumes) to operate, secure, bill and improve the Services, and may produce aggregated and anonymised statistics that do not identify the Customer or any data subject."
+        }
+      ]
+    },
+    {
+      "title": "8. Intellectual property",
+      "blocks": [
+        {
+          "p": "The NELIAS trademark, the Debass trademark, and the texts, interfaces, graphics, software, databases, configurations, documentation and all elements of the Services are protected by applicable law and remain the exclusive property of Debass or its licensors. No right is assigned."
+        },
+        {
+          "p": "For the term of the Contract and within its scope, the Customer receives a personal, limited, non-exclusive, non-transferable and non-sublicensable right of use. Third-party or open-source components incorporated in the Services (including ERPNext/Frappe) remain subject to their respective licences, which prevail for those components."
+        },
+        {
+          "p": "The Customer grants Debass and its subcontractors a non-exclusive licence, for the term of the Contract, to host, copy, process and display Customer Data solely to provide the Services. Customer Data does not become the property of Debass."
+        },
+        {
+          "p": "Suggestions, feedback and improvement ideas submitted by the Customer may be freely used by Debass, without compensation or any duty of confidentiality towards the Customer, provided that Customer Data is not disclosed in doing so. No Debass or NELIAS trademark, name or logo may be used without prior written authorisation."
+        }
+      ]
+    },
+    {
+      "title": "9. Offers, prices and payment",
+      "blocks": [
+        {
+          "p": "Prices displayed on the website are expressed in CFA francs (FCFA), excluding taxes, unless stated otherwise. Any indication in another currency is purely indicative; the amount invoiced is the amount expressed in FCFA. Public prices, plans, capacities, modules and options may be changed at any time for future orders; the order summary or quote accepted prevails for the order concerned."
+        },
+        {
+          "p": "Modules, quotas, users and options depend on the plan subscribed. Features, modules, packs, connectors or offers presented as “coming soon” or “in preparation” (in particular the Industry+ Packs) constitute neither a delivery commitment nor a determining element of the Customer’s consent, and cannot be ordered until Debass declares them available."
+        },
+        {
+          "p": "Every order is subject to the summary and commercial conditions presented before confirmation; no invoicing is triggered by the mere submission of a configuration request."
+        }
+      ]
+    },
+    {
+      "title": "10. Availability, maintenance and evolution",
+      "blocks": [
+        {
+          "p": "Debass endeavours to keep the Services running but does not guarantee continuous availability or the absence of errors or interruptions. Interruptions may occur for maintenance, security, upgrades, dependence on third-party services or incidents. The Services are provided on a best-efforts basis."
+        },
+        {
+          "p": "Any availability and support commitments are those, and only those, of the SLA applicable to the plan subscribed. Debass may change, replace or withdraw features, in particular for technical, security, legal or offer-consistency reasons, without disproportionately affecting the Customer’s contractual rights acquired for the current period."
+        }
+      ]
+    },
+    {
+      "title": "11. Warranties, liability and force majeure",
+      "blocks": [
+        {
+          "p": "To the fullest extent permitted by law, the Services are provided “as is” and “as available”. Debass gives no warranty, express or implied, of fitness for a particular purpose, of results, of freedom from errors, or of the Customer’s compliance with its own legal, accounting, tax, employment or sector-specific obligations."
+        },
+        {
+          "p": "Website information, simulations, automatic recommendations and decision-support functions do not replace legal, accounting, tax or professional advice. The Customer checks the results before any decision and remains solely responsible for how it uses them."
+        },
+        {
+          "p": "For paid subscriptions, Debass’s liability is governed, capped and limited under article 11 of the Terms of Sale. For free or non-contractual Services (website, configurator, demonstration, trial, pilot), Debass’s liability is excluded to the fullest extent permitted by law. Debass is in no event liable for indirect damage, loss of profit, customers, revenue, data or reputation, or for damage resulting from non-compliant use, from the Customer’s fault or from the act of a third party."
+        },
+        {
+          "p": "The Customer indemnifies Debass against any claim, action, award, cost and expense (including reasonable legal fees) brought by a third party as a result of Customer Data, of use of the Services contrary to the ToU or the law, or of the infringement of a third party’s rights."
+        },
+        {
+          "p": "Neither party is liable for non-performance caused by force majeure, as defined by applicable law and the Terms of Sale. Nothing in these terms excludes a liability that cannot lawfully be excluded."
+        }
+      ]
+    },
+    {
+      "title": "12. Suspension and termination",
+      "blocks": [
+        {
+          "p": "Debass may suspend all or part of an access, immediately and without notice in the event of a risk to the security or integrity of the Services, unlawful use or a request from an authority, and after informing the Customer where possible in other cases, in particular breach of the ToU or non-payment. Suspension is proportionate to the breach and ends when its cause has ceased."
+        },
+        {
+          "p": "Debass may terminate the access of a user or a Customer in the event of a serious or repeated breach, fraud or failure to remedy after formal notice. Termination of subscriptions, refunds and the return of data are governed by the Terms of Sale. The articles relating to intellectual property, data, liability, warranties and governing law survive the end of the Services."
+        }
+      ]
+    },
+    {
+      "title": "13. Providers, hosting and third-party services",
+      "blocks": [
+        {
+          "p": "NELIAS BMP is operated with technical providers acting within their respective missions: cloud hosting (Hodi), development, integration and technical support (CRMPUNCH), software and platform components (ERPNext/Frappe and WHMCS, without their use necessarily implying access to data by their publishers), and payment or communication providers identified upon their activation. Access to personal data is limited to authorised needs and governed by contract."
+        },
+        {
+          "p": "As at the date of this version, primary storage is located in a data centre presented by its operator as Tier III, in Grand-Bassam (Côte d’Ivoire); the disaster recovery plan (DRP) and recovery copies are hosted in Johannesburg (South Africa) with Hodi, with no storage planned outside the African continent for this architecture. This description is not a guarantee of result; Debass may replace a provider or change this architecture, with the notice provided in the DPA. A data-location commitment exists only if stipulated in the special conditions of an offer (in particular SOVEREIGN)."
+        },
+        {
+          "p": "Support or maintenance access from abroad is distinct from hosting and is subject to applicable legal requirements. Third-party services that the Customer chooses to integrate (payment, messaging, banking, e-commerce, etc.) are governed by their own terms; Debass is not responsible for them."
+        }
+      ]
+    },
+    {
+      "title": "14. Personal data and cookies",
+      "blocks": [
+        {
+          "p": "Processing of personal data carried out by Debass is described in the NELIAS Privacy Policy, accessible from the footer and from the forms. Non-essential trackers are subject to the user’s choices in accordance with applicable rules."
+        }
+      ]
+    },
+    {
+      "title": "15. Changes to the ToU",
+      "blocks": [
+        {
+          "p": "Debass may amend the ToU at any time to reflect a legal, technical or functional change. The version and its date are displayed on nelias.app. The new ToU apply upon publication to website visitors; for Customers under contract, material changes are notified to them at least 15 days before taking effect, in their customer area or by email. Continued use of the Services after the effective date constitutes acceptance; a Customer who refuses may stop using the Services and not renew its subscription under the Terms of Sale."
+        }
+      ]
+    },
+    {
+      "title": "16. General provisions",
+      "blocks": [
+        {
+          "p": "The ToU, together with the contractual documents referred to in article 1, constitute the entire agreement on their subject matter. If any provision is held void or unenforceable, the others remain in force. Failure to exercise a right does not constitute a waiver. The Customer may not assign its rights without Debass’s written consent; Debass may assign its own to a group company or a successor. Only the French-language version is authoritative."
+        }
+      ]
+    },
+    {
+      "title": "17. Governing law and disputes",
+      "blocks": [
+        {
+          "p": "Subject to mandatory rules, the ToU are governed by the law of the Republic of Côte d’Ivoire and the applicable OHADA texts. The parties first seek an amicable solution for thirty (30) days from written notice of the dispute. Failing that, the competent courts of Abidjan (Côte d’Ivoire), in particular the Abidjan Commercial Court, have sole jurisdiction, including where there are multiple defendants or third-party claims, unless a mandatory rule provides otherwise. Debass may apply to any court for urgent relief to protect its rights."
+        }
+      ]
+    },
+    {
+      "title": "18. Contact",
+      "blocks": [
+        {
+          "p": "For any contractual question or claim: info@debasstechnologies.com | +225 05 64 05 90 60 | Debass Technologies, Cocody, Abidjan, Côte d’Ivoire. For account security and data-related requests: contact@nelias.app. Legal representative: Jules TIEMOKO."
+        }
+      ]
+    }
+  ]
+}

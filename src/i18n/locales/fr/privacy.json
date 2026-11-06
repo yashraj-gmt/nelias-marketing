@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "title": "Politique de confidentialité",
+    "version": "NELIAS BMP | Version 1.1 - Publication portail | 13 octobre 2026",
+    "publisher": "Éditeur : Debass Technologies SARL • https://nelias.app"
+  },
+  "seo": {
+    "title": "Politique de confidentialité | NELIAS BMP",
+    "description": "Politique de confidentialité de NELIAS BMP, version 1.1, publication portail, 13 octobre 2026."
+  },
+  "page": {
+    "contents": "Sommaire",
+    "languageLink": "Lire ce document en anglais"
+  },
+  "articles": [
+    {
+      "title": "1. Qui sommes-nous ?",
+      "blocks": [
+        {
+          "p": "Le responsable du traitement est Debass Technologies SARL, société à responsabilité limitée au capital de 5 000 000 FCFA, immatriculée au RCCM sous le numéro CI-ABJ-3-2024-M-16771, numéro de compte contribuable (NCC) 2401322M, dont le siège est situé à Cocody, Abidjan (Côte d'Ivoire), représentée par son représentant légal, Jules TIEMOKO. Courriel : info@debasstechnologies.com - Téléphone : +225 05 64 05 90 60 - Plateforme : https://nelias.app."
+        },
+        {
+          "p": "Debass est responsable des données qu'elle utilise pour ses contacts commerciaux, son portail, ses comptes et sa facturation. Pour les données métier qu'un client dépose dans NELIAS, le client détermine en principe les finalités et Debass agit comme sous-traitant (voir le DPA et l'article 9)."
+        }
+      ]
+    },
+    {
+      "title": "2. Données collectées",
+      "blocks": [
+        {
+          "p": "Selon votre utilisation : identité, entreprise, fonction, coordonnées, secteur, réponses au configurateur, demandes, compte, abonnement, factures, tickets d'assistance, journaux techniques et choix de consentement."
+        },
+        { "p": "Les paiements peuvent être traités par un prestataire spécialisé." }
+      ]
+    },
+    {
+      "title": "3. Finalités, bases et durées de conservation",
+      "blocks": [
+        {
+          "table": {
+            "head": ["Finalité", "Base", "Données", "Durée de conservation"],
+            "rows": [
+              [
+                "Répondre aux demandes, configurer une offre",
+                "Mesures précontractuelles ; intérêt légitime",
+                "Identité, entreprise, coordonnées, réponses au configurateur",
+                "Contacts non convertis : 3 ans au plus après le dernier échange actif"
+              ],
+              [
+                "Gérer les candidatures au programme pilote",
+                "Mesures précontractuelles",
+                "Identité, entreprise, informations de candidature",
+                "Candidatures refusées : 12 mois après la sélection"
+              ],
+              [
+                "Ouvrir un compte, fournir le service, assurer le support",
+                "Exécution du contrat",
+                "Compte, abonnement, tickets d'assistance",
+                "Durée du contrat, puis selon la procédure de restitution et les obligations légales"
+              ],
+              [
+                "Facturer et respecter les obligations comptables",
+                "Exécution du contrat ; obligation légale",
+                "Factures, données de facturation",
+                "Durées légales applicables aux documents comptables"
+              ],
+              [
+                "Sécuriser le portail et traiter les incidents",
+                "Intérêt légitime ; obligation légale",
+                "Journaux techniques",
+                "Jusqu'à 12 mois en principe"
+              ],
+              [
+                "Sauvegarder",
+                "Intérêt légitime ; exécution du contrat",
+                "Copies de sauvegarde",
+                "Cycle opérationnel normalement limité à 30 jours"
+              ],
+              [
+                "Communications commerciales facultatives",
+                "Consentement ou autre condition légale applicable",
+                "Coordonnées, choix de consentement",
+                "Jusqu'au retrait du consentement, dans la limite de 3 ans après le dernier échange actif"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Les données obligatoires sont signalées dans les formulaires. Ces durées peuvent être prolongées lorsqu'une obligation légale ou un litige le justifie."
+        }
+      ]
+    },
+    {
+      "title": "4. Destinataires",
+      "blocks": [
+        {
+          "p": "Les personnes habilitées de Debass et les prestataires nécessaires accèdent aux données dans les limites de leurs missions : Hodi (hébergement et reprise), CRMPUNCH (support et développement) et, lorsqu'ils sont effectivement activés, les prestataires de paiement, de communication ou de gestion."
+        },
+        { "p": "Debass ne vend pas les données personnelles." }
+      ]
+    },
+    {
+      "title": "5. Où sont hébergées les données ?",
+      "blocks": [
+        {
+          "p": "L'environnement NELIAS est hébergé avec Hodi à Grand-Bassam (Côte d'Ivoire) et dispose d'un site de reprise à Johannesburg (Afrique du Sud). Les copies de production et de reprise prévues par cette architecture restent en Afrique."
+        },
+        {
+          "p": "Un accès technique autorisé depuis un autre pays est distinct de l'hébergement ; il est limité aux besoins du service et respecte les formalités applicables."
+        }
+      ]
+    },
+    {
+      "title": "6. Sécurité",
+      "blocks": [
+        {
+          "p": "Debass applique des contrôles d'accès, des mesures de protection des communications, des procédures de sauvegarde et de traitement des incidents, proportionnés aux risques et aux services effectivement activés. Aucun système n'est totalement exempt de risque."
+        }
+      ]
+    },
+    {
+      "title": "7. Vos droits",
+      "blocks": [
+        {
+          "p": "Vous pouvez demander, dans les conditions prévues par la loi ivoirienne n° 2013-450, l'accès à vos données, leur rectification, leur suppression et exercer votre droit d'opposition, ainsi que les autres droits applicables."
+        },
+        {
+          "p": "Adressez votre demande à contact@nelias.app. Une vérification d'identité peut être demandée. Vous pouvez aussi saisir l'Autorité de régulation des télécommunications/TIC de Côte d'Ivoire (ARTCI)."
+        }
+      ]
+    },
+    {
+      "title": "8. Prospection et cookies",
+      "blocks": [
+        {
+          "p": "Les messages marketing facultatifs et les cookies non essentiels font l'objet de choix distincts lorsque la loi l'exige. Le refus de ces usages facultatifs ne bloque pas l'accès aux services nécessaires. Vous pouvez retirer votre consentement à tout moment par les mécanismes proposés."
+        }
+      ]
+    },
+    {
+      "title": "9. Hors périmètre : données de vos clients et salariés",
+      "blocks": [
+        {
+          "p": "Lorsque vous utilisez NELIAS pour gérer des données de tiers (clients, fournisseurs, salariés), vous décidez des données chargées et des personnes qui y accèdent. Les règles applicables à ce traitement figurent dans le DPA. Pour exercer vos droits sur de telles données, adressez-vous d'abord à l'entreprise cliente concernée."
+        }
+      ]
+    },
+    {
+      "title": "10. Évolution de la politique et contact",
+      "blocks": [
+        {
+          "p": "La version en vigueur est publiée sur https://nelias.app. Les modifications importantes font l'objet d'une information adaptée."
+        },
+        { "p": "Pour toute question : contact@nelias.app ou info@debasstechnologies.com." }
+      ]
+    }
+  ]
+}

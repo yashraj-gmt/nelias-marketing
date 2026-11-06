@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "Les fonctionnalités dont votre entreprise a besoin, dans un environnement conçu autour de vous.",
+    "lead": "Voici les domaines fonctionnels de la plateforme. Les modules exacts, les fonctions incluses et la disponibilité des versions dépendent de la formule choisie et du catalogue approuvé."
+  },
+  "page": {
+    "listLabel": "Domaines fonctionnels",
+    "filterLabel": "Filtrer par secteur",
+    "filterAll": "Tous les secteurs",
+    "showing": "{{shown}} domaines fonctionnels affichés sur {{total}}",
+    "viewIndustry": "Voir {{name}}",
+    "empty": "Aucun domaine fonctionnel à afficher.",
+    "nextStep": "Prochaine étape"
+  },
+  "disclaimer": "NELIAS AI, les analyses avancées, les connecteurs et les fonctions propres à certains secteurs peuvent être optionnels, facturés à l’usage ou prévus pour une version ultérieure.",
+  "areas": {
+    "finance-accounting": {
+      "name": "Finance et comptabilité",
+      "description": "Suivez les opérations financières et bénéficiez d’une gestion comptable plus lisible."
+    },
+    "crm-sales": {
+      "name": "CRM et ventes",
+      "description": "Organisez vos contacts, opportunités, cycles de vente et interactions clients."
+    },
+    "purchasing-inventory": {
+      "name": "Achats et stocks",
+      "description": "Gérez vos fournisseurs, cycles d’achat, stocks et opérations logistiques."
+    },
+    "point-of-sale": {
+      "name": "Point de vente",
+      "description": "Gérez les encaissements et transactions en magasin lorsqu’activé."
+    },
+    "projects-timesheets": {
+      "name": "Projets et feuilles de temps",
+      "description": "Planifiez, réalisez et suivez les activités menées en mode projet."
+    },
+    "human-resources": {
+      "name": "Ressources humaines",
+      "description": "Gérez les collaborateurs et les démarches administratives associées."
+    },
+    "manufacturing-quality": {
+      "name": "Production et qualité",
+      "description": "Pilotez les processus de fabrication et de qualité pour les configurations sectorielles éligibles."
+    },
+    "assets-maintenance": {
+      "name": "Actifs et maintenance",
+      "description": "Suivez votre parc d’équipements, les entretiens et les interventions de maintenance."
+    },
+    "customer-support-portal": {
+      "name": "Support client et portail",
+      "description": "Traitez les demandes d’assistance et les interactions clients lorsqu’activé."
+    },
+    "reporting-analytics": {
+      "name": "Reporting et analyses",
+      "description": "Transformez vos données opérationnelles en indicateurs de pilotage exploitables."
+    },
+    "workflows-automation": {
+      "name": "Flux de travail et automatisation",
+      "description": "Reliez les étapes, validations et alertes au sein de vos processus d’entreprise."
+    },
+    "connectors-apis": {
+      "name": "Connecteurs et API",
+      "description": "Connectez votre plateforme aux systèmes et services tiers compatibles."
+    }
+  },
+  "extras": {
+    "exploreIndustries": "Explorer les secteurs"
+  }
+}

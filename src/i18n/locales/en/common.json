@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "name": "NELIAS",
+    "descriptor": "Business Management Platform",
+    "attribution": "NELIAS - A product of Debass Technologies",
+    "promise": "One platform. Multiple industries. Your environment, automatically configured.",
+    "footerTagline": "NELIAS - A Business Management Platform by Debass Technologies. One platform. Multiple industries. Your environment, automatically configured.",
+    "copyright": "© 2026 NELIAS. All rights reserved."
+  },
+  "theme": {
+    "darkMode": "Dark mode"
+  },
+  "header": {
+    "mainNavLabel": "Main navigation",
+    "menu": "Menu",
+    "homeLink": "NELIAS - Home"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "industries": "Industries",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "faq": "FAQ",
+    "dpa": "Data Processing Agreement (DPA)",
+    "sla": "Service Level Agreement (SLA)"
+  },
+  "footer": {
+    "navLabel": "Footer navigation",
+    "legalNavLabel": "Legal",
+    "exploreHeading": "Explore",
+    "contactHeading": "Contact",
+    "whatsapp": "WhatsApp"
+  },
+  "cta": {
+    "bookDemo": "Request a Demo",
+    "exploreNelias": "Explore NELIAS",
+    "exploreHowItWorks": "Explore How It Works",
+    "seeHowNeliasWorks": "See How NELIAS Works",
+    "contactTeam": "Contact Our Team",
+    "requestConversation": "Request a Conversation",
+    "contactNeliasTeam": "Contact the NELIAS Team",
+    "talkToExpert": "Talk to an Expert",
+    "signUp": "Sign Up",
+    "simulatePrice": "Simulate my price",
+    "configure": "Configure My NELIAS"
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "languageChanged": "Language changed to {{language}}"
+  },
+  "lang": {
+    "en": "English",
+    "fr": "Français",
+    "enShort": "EN",
+    "frShort": "FR"
+  },
+  "ui": {
+    "required": "required",
+    "optional": "optional",
+    "close": "Close",
+    "info": "More information",
+    "tabs": "Sections",
+    "illustrativePreview": "Illustrative preview",
+    "availability": {
+      "available": "Available",
+      "demoOnly": "Demo only",
+      "comingLater": "Coming later"
+    },
+    "stepOf": "Step {{current}} of {{total}}",
+    "completed": "completed",
+    "increase": "Increase",
+    "decrease": "Decrease",
+    "loading": "Loading",
+    "externalLink": "(opens in a new tab)",
+    "select": { "placeholder": "Select an option" },
+    "details": "Details"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "The page you are looking for does not exist."
+  },
+  "devPlaceholder": "Placeholder page. Content is added in a later step."
+}

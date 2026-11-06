@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "About NELIAS",
+    "lead": "Your business is unique. Your management platform should be too."
+  },
+  "story": {
+    "title": "Our Story",
+    "p1": "Behind every business lies a vision, ambitions, and people working every day to bring them to life.",
+    "p2": "But as organizations grow, their challenges evolve. Activities diversify, teams expand, and management tools multiply. Information becomes scattered, processes grow more complex, and a clear, company-wide view can gradually be lost.",
+    "pull": "Businesses grow, but their tools do not always grow with them.",
+    "p3": "At Debass Technologies, our experience supporting organizations through digital transformation led us to ask a fundamental question:",
+    "question": "Why should businesses adapt to the limitations of their software when technology should adapt to their realities?",
+    "p4": "From this belief, NELIAS was born: a new vision of business management, where technology adapts to different industries, supports ambitions, and evolves at the pace of each organization."
+  },
+  "answer": {
+    "title": "Our Answer: A Platform That Adapts to You",
+    "p1": "NELIAS is a Business Management Platform (BMP): an integrated, modular, and scalable management platform designed to meet the diverse needs of businesses and their activities.",
+    "p2": "At the heart of this approach is the Sector Engine, a sector-based configuration engine designed to organize platform capabilities according to each organization’s industry, needs, and profile.",
+    "p3": "Because a retailer, a healthcare provider, a professional services firm, and a multi-company group do not operate in the same way, NELIAS favors flexibility over a one-size-fits-all model.",
+    "philosophy": "Our philosophy is simple: start with what you need today and let your environment evolve with your ambitions for tomorrow.",
+    "triad": [
+      "One technological foundation.",
+      "Multiple industries.",
+      "Environments tailored to each organization."
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "statement": "To simplify business management so organizations can focus on what matters most: building, innovating, and growing.",
+    "p1": "We aim to make management technologies more accessible, smarter, and better aligned with the real needs of organizations.",
+    "p2": "By bringing activities, teams, and information together in a coherent environment, NELIAS seeks to strengthen collaboration, streamline processes, and give decision-makers clearer visibility into their operations.",
+    "p3": "Because we believe technology should be a driver of performance and freedom, never an obstacle to growth."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "statement": "To build, from Africa, a leading business management platform capable of supporting the ambitions of companies at home and around the world.",
+    "p1": "Born in Côte d’Ivoire and driven by Debass Technologies, NELIAS reflects a vision of digital transformation that brings together innovation, international standards, and a deep understanding of African business realities.",
+    "p2": "We believe in the potential of African entrepreneurs, the strength of their initiatives, and their ability to build competitive, sustainable organizations connected to the world.",
+    "p3": "Our ambition is to contribute to this momentum through technology that evolves with businesses, respects their unique characteristics, and supports their growth across borders.",
+    "pull": "We begin in Côte d’Ivoire. But our vision goes far beyond."
+  },
+  "closing": {
+    "ariaLabel": "About NELIAS: next step",
+    "signature": "NELIAS - One platform. Multiple industries. Your environment, automatically."
+  }
+}

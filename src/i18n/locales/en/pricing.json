@@ -1,0 +1,216 @@
+{
+  "hero": {
+    "title": "Four plans, the right capacity",
+    "lead": "No price is calculated per office, store or warehouse: the location of your teams is not a pricing criterion."
+  },
+  "overview": {
+    "signUpFor": "Sign Up for {{plan}}",
+    "simulatePriceFor": "Simulate price for {{plan}}",
+    "configureFor": "Configure {{plan}}"
+  },
+  "page": {
+    "plansTitle": "Plans",
+    "billingLabel": "Billing period",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "annualNote": "Annual subscriptions for START, BUSINESS and PROFESSIONAL correspond to 12 months of service for the price of 10 months.",
+    "announce": "Showing {{period}} prices",
+    "periodMonthly": "monthly",
+    "periodAnnual": "annual",
+    "perMonth": "/ month",
+    "perYear": "/ year",
+    "exclTax": "excl. tax",
+    "customQuote": "Custom quote",
+    "priceOnRequest": "Pricing on request",
+    "recommended": "Recommended",
+    "modulesLabel": "Standard modules",
+    "modulesNote": "Each plan includes a number of standard modules. The Sector Engine recommends the most relevant ones for your industry, and you can replace any of them with another compatible standard module at no additional charge, within your plan’s quota.",
+    "usersLabel": "Users",
+    "entitiesLabel": "Legal entities",
+    "storageLabel": "Storage",
+    "storageValue": "{{value}} GB",
+    "includedLabel": "Included",
+    "compareTitle": "Compare plans",
+    "optionalTitle": "Optional charges",
+    "optionalLead": "Add sector capabilities, users and integrations where needed.",
+    "devPricingTitle": "Expandable pricing details for developers",
+    "itemCol": "Item",
+    "ruleCol": "Internal V2 price / rule",
+    "expandDetails": "Expand developer pricing",
+    "collapseDetails": "Collapse developer pricing"
+  },
+  "plans": {
+    "start": {
+      "name": "START",
+      "tagline": "A practical foundation for smaller teams.",
+      "included": ["Sector Engine", "Standard workflows and support"],
+      "cta": "Configure START"
+    },
+    "business": {
+      "name": "BUSINESS",
+      "tagline": "More room for growing operations.",
+      "included": ["Sector Engine", "Advanced workflows", "Standard+ support"],
+      "cta": "Configure BUSINESS"
+    },
+    "professional": {
+      "name": "PROFESSIONAL",
+      "tagline": "Broader capacity and advanced capabilities.",
+      "included": ["Sector Engine", "Advanced API", "Customer portal", "Advanced BI"],
+      "cta": "Configure PROFESSIONAL"
+    },
+    "enterprise": {
+      "name": "ENTERPRISE",
+      "tagline": "Designed for complex organizations.",
+      "included": ["Custom capacity", "Hosting", "Service commitments", "Integrations"],
+      "cta": "Talk to an Expert",
+      "modules": "Tailored",
+      "users": "Tailored",
+      "entities": "Multi-entity",
+      "storage": "Sized to needs"
+    }
+  },
+  "compare": {
+    "title": "Compare the plans",
+    "caption": "Plan comparison",
+    "plan": "Plan",
+    "monthlyCol": "Monthly (excl. tax)",
+    "annualCol": "Annual (excl. tax)"
+  },
+  "grow": {
+    "title": "Grow your subscription",
+    "head": {
+      "extension": "Extension",
+      "monthly": "Monthly price excl. VAT"
+    },
+    "items": {
+      "module": {
+        "label": "Additional standard module",
+        "value": "{{amount}} per module"
+      },
+      "user": {
+        "label": "Additional user",
+        "value": "{{amount}}"
+      },
+      "users5": {
+        "label": "Pack of 5 users",
+        "value": "{{amount}}"
+      },
+      "users10": {
+        "label": "Pack of 10 users",
+        "value": "{{amount}}"
+      },
+      "entity": {
+        "label": "Additional legal entity",
+        "value": "{{amount}}"
+      },
+      "pack": {
+        "label": "Industry+ Pack (coming soon)",
+        "value": "{{amount}} per pack"
+      },
+      "storage": {
+        "label": "Additional storage",
+        "value": "Calculated on our hosting partner’s grid"
+      },
+      "addons": {
+        "label": "Add-ons and connectors",
+        "value": "According to catalogue"
+      }
+    },
+    "example": "Example: START with 5 modules costs {{base}} + {{extra}} = {{total}} excl. VAT per month. For n additional users, the calculation selects the cheapest combination of single users and packs. If BUSINESS with extensions costs more than PROFESSIONAL, we tell you."
+  },
+  "sectors": {
+    "title": "Sector configurations included",
+    "body": "The base sector configuration is included in all plans, at no extra charge.",
+    "badge": "Sector Engine",
+    "supportedSectors": "Preconfigured for 12 business sectors",
+    "highlights": {
+      "tailored": {
+        "title": "Tailored to your activity",
+        "text": "Vocabulary, forms and default workflows aligned with your industry from day one."
+      },
+      "zeroFee": {
+        "title": "No extra fee",
+        "text": "Every plan includes its full sector configuration without any additional license."
+      },
+      "flexible": {
+        "title": "Interchangeable modules",
+        "text": "Replace any recommended module with another standard module within your plan quota."
+      }
+    }
+  },
+  "packs": {
+    "title": "Industry+ Packs - coming soon",
+    "intro": "Five in-depth business packs are planned. They are not yet available.",
+    "price": "Each will be offered at {{amount}} excl. VAT per month, in addition to the subscription.",
+    "head": {
+      "pack": "Pack",
+      "sector": "Sector",
+      "functions": "Envisaged functions"
+    },
+    "items": {
+      "immo": {
+        "name": "NELIAS Immo+",
+        "sector": "Real estate",
+        "functions": "Advanced rental management: leases, rents, due dates, rent receipts, property tracking"
+      },
+      "courtage": {
+        "name": "NELIAS Courtage+",
+        "sector": "Insurance brokerage",
+        "functions": "Policies and contracts, commissions, renewals, exchanges with insurers"
+      },
+      "pharma": {
+        "name": "NELIAS Pharma+",
+        "sector": "Pharmacy",
+        "functions": "Batch and expiry-date traceability, subject to regulatory validation"
+      },
+      "chantier": {
+        "name": "NELIAS Chantier+",
+        "sector": "Construction",
+        "functions": "Site monitoring, progress payment statements, retention money, subcontracting"
+      },
+      "services": {
+        "name": "NELIAS Services+",
+        "sector": "IT and services",
+        "functions": "Service contracts, SLAs, interventions, automations"
+      }
+    },
+    "notify": "Get notified when available"
+  },
+  "optional": {
+    "groups": {
+      "modules": "Standard modules",
+      "capacity": "Users and legal entities",
+      "addOns": "Add-ons",
+      "connectors": "Connectors"
+    },
+    "items": {
+      "additional-module": "Additional standard module",
+      "user-1": "Additional user",
+      "users-5": "+5 users",
+      "users-10": "+10 users",
+      "legal-entity": "Additional legal entity",
+      "advanced-workflow": "Advanced Workflow",
+      "advanced-bi": "Advanced BI & Analytics",
+      "marketing-automation": "Marketing Automation",
+      "customer-portal-plus": "Customer Portal+",
+      "field-service-plus": "Field Service+",
+      "assets-maintenance-plus": "Assets & Maintenance+",
+      "data-api-plus": "Data & API Plus",
+      "nelias-ai": "NELIAS AI",
+      "audit-compliance": "Advanced Audit / Compliance",
+      "connector-standard": "Standard Connector",
+      "connector-business": "Business Connector",
+      "connector-premium": "Premium Connector",
+      "connector-custom": "Custom Connector"
+    },
+    "price": {
+      "fixed": "{{amount}} / month",
+      "from": "From {{amount}} / month",
+      "fromPlusUsage": "From {{amount}} / month + usage",
+      "range": "{{min}}–{{max}} / month",
+      "includedOr": "Included or {{amount}} / month",
+      "quote": "Quote"
+    }
+  },
+  "disclaimer": "Prices shown in FCFA, excluding applicable taxes. Availability, included features, optional services and third-party charges are subject to confirmation. Some configurations require a custom quote."
+}

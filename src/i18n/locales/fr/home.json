@@ -1,0 +1,164 @@
+{
+  "seo": {
+    "title": "NELIAS BMP | Plateforme de gestion d’entreprise",
+    "description": "Une plateforme. Des entreprises variées. NELIAS construit l’environnement de gestion adapté à votre entreprise, avec des prix publics en FCFA.",
+    "descriptionNoPrices": "Une plateforme. Des entreprises variées. NELIAS construit l’environnement de gestion adapté à votre entreprise."
+  },
+  "hero": {
+    "eyebrow": "Plateforme de gestion d’entreprise",
+    "title": "Dites-nous ce que fait votre entreprise.",
+    "subtitle": "NELIAS construit l’environnement de gestion qui lui correspond.",
+    "simulatePrice": "Simuler mon prix",
+    "reassurance": "NELIAS BMP, propulsé par Debass Technologies - prix publics en FCFA, hébergement disponible en Côte d’Ivoire."
+  },
+  "heroTiles": {
+    "sales": "Ventes",
+    "crm": "CRM",
+    "purchasing": "Achats",
+    "inventory": "Stock",
+    "accounting": "Comptabilité",
+    "projects": "Projets"
+  },
+  "modules": {
+    "title": "14 modules, composez le vôtre",
+    "intro": "Chaque offre inclut un certain nombre de modules standard\u00A0: {{start}} avec START, {{business}} avec BUSINESS, {{professional}} avec PROFESSIONAL. Le Sector Engine recommande une sélection adaptée à votre activité. Vous pouvez l’ajuster librement parmi les modules compatibles. Le socle technique (Core) n’est pas comptabilisé dans ce nombre.",
+    "families": {
+      "customerRelations": "Relation client",
+      "operations": "Opérations",
+      "financeTeams": "Finance et équipes"
+    },
+    "names": {
+      "sales": "Ventes",
+      "crm": "CRM",
+      "marketing": "Marketing",
+      "customerSupport": "Support client",
+      "pointOfSale": "Point de vente",
+      "purchasing": "Achats",
+      "inventory": "Stock",
+      "production": "Production",
+      "quality": "Qualité",
+      "assets": "Actifs",
+      "accounting": "Comptabilité",
+      "payroll": "Paie",
+      "hr": "RH",
+      "projects": "Projets"
+    },
+    "extraModule": "Module standard supplémentaire\u00A0: {{amount}} hors taxes par mois et par module, au-delà du nombre inclus dans votre offre.",
+    "benefits": {
+      "zeroReentry": {
+        "title": "Zéro ressaisie",
+        "text": "Une information saisie une seule fois est disponible dans tous les modules."
+      },
+      "tracking": {
+        "title": "Suivi de bout en bout",
+        "text": "Vous suivez chaque commande, du premier contact à l’écriture comptable."
+      },
+      "roles": {
+        "title": "Rôles et droits d’accès",
+        "text": "Accès par rôle et authentification multifacteur pour tous les utilisateurs."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Quatre offres, la bonne capacité",
+    "introPrices": "Prix publics en FCFA, hors taxes.",
+    "introLocation": "Aucun prix n’est calculé par bureau, magasin ou entrepôt\u00A0: l’implantation de vos équipes n’est pas un critère de prix.",
+    "table": {
+      "plans": {
+        "start": "START",
+        "business": "BUSINESS",
+        "professional": "PROFESSIONAL",
+        "enterprise": "ENTERPRISE"
+      },
+      "rows": {
+        "for": "Pour",
+        "monthly": "Prix mensuel hors taxes",
+        "annual": "Prix annuel hors taxes",
+        "modules": "Modules standard inclus",
+        "users": "Utilisateurs inclus",
+        "entities": "Entités juridiques",
+        "storage": "Stockage inclus",
+        "engine": "Sector Engine",
+        "level": "Niveau de service"
+      },
+      "for": {
+        "start": "Très petites et petites entreprises",
+        "business": "PME",
+        "professional": "Entreprises structurées",
+        "enterprise": "Grandes entreprises, groupes"
+      },
+      "onQuote": "Sur devis",
+      "asNeeded": "Selon les besoins",
+      "multiEntity": "Multi-entités",
+      "sizedToNeed": "Dimensionné selon le besoin",
+      "included": "Inclus",
+      "levels": {
+        "start": "Standard",
+        "business": "Standard+",
+        "professional": "Prioritaire",
+        "enterprise": "SLA"
+      }
+    },
+    "annual": "Paiement annuel\u00A0: 10 mensualités facturées pour 12 mois de service.",
+    "enterprise": "Enterprise\u00A0: environnement dédié, souverain, hybride ou sur site (on-premise), SSO et SLA spécifique, dimensionnés sur devis.",
+    "legal": "Prix indicatifs hors taxes et hors prestations de mise en place, de migration et de formation, qui font l’objet d’un devis selon votre projet.",
+    "cta": "Voir tous les tarifs"
+  },
+  "security": {
+    "title": "Sécurité et isolation des données",
+    "items": {
+      "access": "Accès par rôle et authentification multifacteur pour tous les utilisateurs\u00A0; authentification unique (SSO) selon l’offre.",
+      "encryption": "Chiffrement des échanges (TLS) et des données selon l’architecture retenue.",
+      "isolation": "Isolation stricte entre les clients et sauvegardes automatiques.",
+      "audit": "Journal d’audit des actions d’administration, de facturation et de provisionnement."
+    }
+  },
+  "why": {
+    "title": "Pourquoi NELIAS",
+    "items": {
+      "prices": {
+        "title": "Des prix clairs en FCFA",
+        "text": "Des prix mensuels et annuels publics, expliqués ligne par ligne."
+      },
+      "africa": {
+        "title": "Des données en Afrique",
+        "text": "Hébergement disponible en Côte d’Ivoire."
+      },
+      "configured": {
+        "title": "Configuré pour votre activité",
+        "text": "Vous décrivez votre activité, la plateforme construit l’environnement."
+      },
+      "path": {
+        "title": "Un parcours clair",
+        "text": "Des offres simples, des extensions clairement identifiées, des prestations facturées séparément."
+      },
+      "proximity": {
+        "title": "La proximité",
+        "text": "Un éditeur local, à vos côtés pour la mise en place et la conduite du changement."
+      },
+      "payment": {
+        "title": "Paiement local",
+        "text": "Moyens de paiement locaux, selon les passerelles validées par pays."
+      }
+    }
+  },
+  "about": {
+    "title": "Votre entreprise est unique. Votre plateforme de gestion aussi.",
+    "p1": "NELIAS BMP est une plateforme de gestion d’entreprise conçue pour les entreprises africaines. Nous partons de votre activité\u00A0: vous la décrivez, et NELIAS construit l’environnement de gestion qui lui correspond.",
+    "p2a": "Nous pensons qu’une plateforme doit être simple à acheter, transparente à faire évoluer et mesurable à exploiter.",
+    "p2b": "C’est pourquoi nos prix sont publics, en FCFA, et chaque ligne d’un devis est expliquée.",
+    "p3": "NELIAS BMP est propulsé par Debass Technologies, intégrateur de télécoms et de systèmes d’information basé à Abidjan. Nous assurons le produit, la relation client et le support de premier niveau, avec des partenaires pour le développement et l’hébergement.",
+    "taglines": [
+      "Une plateforme. Des entreprises variées.",
+      "Votre environnement, automatiquement.",
+      "Vos données, hébergées près de chez vous."
+    ]
+  },
+  "final": {
+    "title": "Dites-nous ce que fait votre entreprise.",
+    "body": "Un conseiller vous répondra et validera la configuration avec vous avant toute commande."
+  },
+  "composition": {
+    "address": "yourcompany.nelias.app"
+  }
+}

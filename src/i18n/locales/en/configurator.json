@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "Configure My NELIAS | NELIAS BMP",
+    "description": "A few details help us recommend a relevant setup."
+  },
+  "page": { "title": "Configure My NELIAS", "progressLabel": "Configuration progress" },
+  "entry": {
+    "title": "Tell us about your business.",
+    "helper": "A few details help us recommend a relevant setup.",
+    "start": "Start Configuration",
+    "resumeTitle": "You have a saved configuration",
+    "resume": "Resume",
+    "startAgain": "Start again"
+  },
+  "steps": {
+    "profile": "Tell us about your business",
+    "operations": "How do you work?",
+    "recommendation": "Here is your recommended setup",
+    "customize": "Make it yours",
+    "summary": "Your summary"
+  },
+  "nav": { "back": "Back", "continue": "Continue", "review": "Review Configuration" },
+  "errors": { "industry": "Please select your industry to continue." },
+  "profile": {
+    "title": "What does your business do?",
+    "helper": "Select your industry and main activities.",
+    "tooltip": "Your answers help us recommend a setup that fits your business.",
+    "activity": "Main activity"
+  },
+  "operations": {
+    "operateTitle": "How does your business operate?",
+    "operateHelper": "Choose the functions you need today.",
+    "quotaInfo": "Plans include {{start}}, {{business}} or {{professional}} standard modules.",
+    "sizeTitle": "Let’s size your environment.",
+    "sizeHelper": "Add users, legal entities and operational requirements."
+  },
+  "modules": {
+    "title": "Standard modules",
+    "helper": "The Sector Engine recommends the most relevant standard modules for your industry. You can replace any of them with another compatible standard module at no additional charge, within your plan’s quota.",
+    "meter": "Standard modules selected: {{selected}} of {{included}} included in {{plan}}",
+    "extraAlert": "Additional standard modules: {{extra}}. Each additional standard module is billed per month.",
+    "included": "Included",
+    "additional": "Additional",
+    "reset": "Reset to recommended modules",
+    "enterpriseNote": "Standard modules are tailored in ENTERPRISE configurations.",
+    "noRecommendation": "Choose the standard modules you need.",
+    "selectionTitle": "Your standard modules",
+    "recommendedTitle": "Recommended standard modules",
+    "matches": "Your selection matches the recommendation.",
+    "changed": "You have changed the recommended modules. You can replace any of them within your plan’s quota."
+  },
+  "recommendation": {
+    "helper": "Based on the information you provided.",
+    "panelTitle": "Your recommended NELIAS environment.",
+    "because": "We recommend this because…",
+    "usersLine": "Users: you need {{needed}}; {{plan}} includes {{included}}.",
+    "entitiesLine": "Legal entities: you need {{needed}}; {{plan}} includes {{included}}.",
+    "storageLine": "Storage: you need up to {{needed}} GB; {{plan}} includes {{included}} GB.",
+    "industryLine": "Industry: {{industry}}.",
+    "modulesLine": "Standard modules: you selected {{selected}}; {{plan}} includes {{included}}.",
+    "includedInPlan": "Included in {{plan}}",
+    "optionsTitle": "Useful options",
+    "optionsNone": "No additional options are suggested for the functions you selected.",
+    "specialist": "Your configuration needs a specialist review. Our team will contact you."
+  },
+  "customize": {
+    "planTitle": "Plan",
+    "capacityTitle": "Capacity",
+    "storageTitle": "Storage",
+    "storageUpTo": "Up to {{value}} GB",
+    "storageMore": "More than {{value}} GB",
+    "suggested": "Suggested",
+    "planBelow": "{{plan}} is below the recommended plan for the information you provided.",
+    "extraUsers": "{{plan}} includes {{included}} users. The difference is added as additional users.",
+    "extraEntities": "{{plan}} includes {{included}} legal entities. The difference is added as additional legal entities.",
+    "storageShort": "{{plan}} includes {{included}} GB. Choose a larger plan or talk to an advisor.",
+    "estimateTitle": "See your estimated subscription.",
+    "estimateHelper": "Review plan, capacity, options and any usage-based charges.",
+    "total": "Estimated total",
+    "totalFrom": "From {{amount}}",
+    "usageNote": "Usage-based charges may apply.",
+    "quoteNote": "Some items are priced by quotation.",
+    "annualOptionsNote": "Option prices are per month.",
+    "extraUsersCount": "Additional users ({{count}})",
+    "extraEntitiesCount": "Additional legal entities ({{count}})",
+    "extraModulesCount": "Additional standard modules ({{count}})",
+    "includedLabel": "Included"
+  },
+  "panel": {
+    "title": "Your configuration",
+    "empty": "Not selected yet",
+    "modules": "Standard modules",
+    "capacity": "Capacity",
+    "plan": "Plan",
+    "storage": "Storage",
+    "options": "Options"
+  },
+  "summary": {
+    "edit": "Edit",
+    "none": "None",
+    "modulesLine": "Selected: {{selected}}; included: {{included}}; additional: {{extra}}",
+    "indicative": "Simulations and recommendations produced by the configurator are indicative.",
+    "save": "Save configuration",
+    "saved": "Configuration saved on this device.",
+    "share": "Share",
+    "shareCopied": "Link copied to the clipboard.",
+    "shareFailed": "We could not copy the link. You can copy it from the field below.",
+    "shareLabel": "Shareable link",
+    "sharedNote": "You are viewing a shared configuration. You can edit any step."
+  }
+}
